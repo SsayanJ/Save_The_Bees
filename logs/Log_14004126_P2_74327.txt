@@ -1,0 +1,1635 @@
+TOTAL SCORE: 74327
+
+########### BEES STATS   ##########
+Bee #0 worked 31035 and made following commands: 'G':326   'F':326   'W':0   'D':0 
+Bee #1 worked 29636 and made following commands: 'G':300   'F':300   'W':0   'D':0 
+Bee #2 worked 31356 and made following commands: 'G':294   'F':294   'W':0   'D':0 
+Bee #3 worked 31114 and made following commands: 'G':275   'F':275   'W':0   'D':0 
+Bee #4 worked 31571 and made following commands: 'G':312   'F':312   'W':0   'D':0 
+Bee #5 worked 30200 and made following commands: 'G':313   'F':313   'W':0   'D':0 
+Bee #6 worked 30876 and made following commands: 'G':324   'F':324   'W':0   'D':0 
+Bee #7 worked 30784 and made following commands: 'G':313   'F':313   'W':0   'D':0 
+Bee #8 worked 31248 and made following commands: 'G':309   'F':309   'W':0   'D':0 
+Bee #9 worked 30664 and made following commands: 'G':281   'F':281   'W':0   'D':0 
+Bee #10 worked 30780 and made following commands: 'G':311   'F':311   'W':0   'D':0 
+Bee #11 worked 31461 and made following commands: 'G':306   'F':306   'W':0   'D':0 
+Bee #12 worked 30508 and made following commands: 'G':318   'F':318   'W':0   'D':0 
+Bee #13 worked 30141 and made following commands: 'G':309   'F':309   'W':0   'D':0 
+Bee #14 worked 29975 and made following commands: 'G':315   'F':315   'W':0   'D':0 
+Bee #15 worked 30224 and made following commands: 'G':297   'F':297   'W':0   'D':0 
+Bee #16 worked 28220 and made following commands: 'G':294   'F':294   'W':0   'D':0 
+Bee #17 worked 28945 and made following commands: 'G':304   'F':304   'W':0   'D':0 
+Bee #18 worked 30692 and made following commands: 'G':338   'F':338   'W':0   'D':0 
+Bee #19 worked 30814 and made following commands: 'G':310   'F':310   'W':0   'D':0 
+
+
+
+########### SUCCESSFUL FEEDS   ##########
+T=38: Bee #6 completed Hive #449 with ['F', 449, 720, 1] --> 100 Points
+T=47: Bee #8 completed Hive #149 with ['F', 149, 158, 1] --> 100 Points
+T=47: Bee #0 completed Hive #338 with ['F', 338, 548, 1] --> 100 Points
+T=51: Bee #10 completed Hive #462 with ['F', 462, 837, 1] --> 100 Points
+T=52: Bee #11 completed Hive #356 with ['F', 356, 672, 1] --> 100 Points
+T=63: Bee #1 completed Hive #216 with ['F', 216, 452, 1] --> 100 Points
+T=67: Bee #2 completed Hive #175 with ['F', 175, 558, 1] --> 100 Points
+T=68: Bee #16 completed Hive #677 with ['F', 677, 741, 1] --> 100 Points
+T=71: Bee #17 completed Hive #621 with ['F', 621, 453, 1] --> 100 Points
+T=73: Bee #18 completed Hive #631 with ['F', 631, 372, 1] --> 100 Points
+T=77: Bee #3 completed Hive #124 with ['F', 124, 404, 1] --> 100 Points
+T=79: Bee #4 completed Hive #465 with ['F', 465, 889, 1] --> 100 Points
+T=92: Bee #5 completed Hive #297 with ['F', 297, 338, 1] --> 100 Points
+T=100: Bee #7 completed Hive #706 with ['F', 706, 615, 1] --> 100 Points
+T=109: Bee #9 completed Hive #559 with ['F', 559, 382, 1] --> 100 Points
+T=116: Bee #12 completed Hive #731 with ['F', 731, 388, 1] --> 100 Points
+T=118: Bee #10 completed Hive #799 with ['F', 799, 910, 1] --> 100 Points
+T=119: Bee #13 completed Hive #735 with ['F', 735, 100, 1] --> 100 Points
+T=120: Bee #6 completed Hive #73 with ['F', 73, 350, 1] --> 100 Points
+T=120: Bee #16 completed Hive #213 with ['F', 213, 439, 1] --> 100 Points
+T=121: Bee #14 completed Hive #20 with ['F', 20, 48, 1] --> 100 Points
+T=128: Bee #8 completed Hive #504 with ['F', 504, 992, 1] --> 100 Points
+T=138: Bee #15 completed Hive #191 with ['F', 191, 862, 1] --> 100 Points
+T=153: Bee #11 completed Hive #231 with ['F', 231, 684, 1] --> 100 Points
+T=154: Bee #17 completed Hive #233 with ['F', 233, 233, 1] --> 100 Points
+T=160: Bee #19 completed Hive #568 with ['F', 568, 228, 1] --> 100 Points
+T=177: Bee #16 completed Hive #531 with ['F', 531, 653, 1] --> 100 Points
+T=185: Bee #3 completed Hive #514 with ['F', 514, 970, 1] --> 100 Points
+T=189: Bee #18 completed Hive #503 with ['F', 503, 277, 1] --> 100 Points
+T=190: Bee #4 completed Hive #653 with ['F', 653, 385, 1] --> 100 Points
+T=200: Bee #0 completed Hive #371 with ['F', 371, 759, 1] --> 100 Points
+T=201: Bee #2 completed Hive #172 with ['F', 172, 659, 1] --> 100 Points
+T=207: Bee #1 completed Hive #326 with ['F', 326, 683, 1] --> 100 Points
+T=217: Bee #5 completed Hive #17 with ['F', 17, 362, 1] --> 100 Points
+T=242: Bee #7 completed Hive #365 with ['F', 365, 37, 1] --> 100 Points
+T=266: Bee #9 completed Hive #134 with ['F', 134, 486, 1] --> 100 Points
+T=296: Bee #3 completed Hive #3 with ['F', 3, 961, 1] --> 100 Points
+T=300: Bee #14 completed Hive #681 with ['F', 681, 384, 1] --> 100 Points
+T=302: Bee #4 completed Hive #128 with ['F', 128, 997, 1] --> 100 Points
+T=303: Bee #6 completed Hive #53 with ['F', 53, 139, 1] --> 100 Points
+T=325: Bee #10 completed Hive #470 with ['F', 470, 616, 1] --> 100 Points
+T=327: Bee #8 completed Hive #587 with ['F', 587, 643, 1] --> 100 Points
+T=332: Bee #13 completed Hive #525 with ['F', 525, 332, 1] --> 100 Points
+T=332: Bee #5 completed Hive #552 with ['F', 552, 691, 1] --> 100 Points
+T=338: Bee #15 completed Hive #348 with ['F', 348, 649, 1] --> 100 Points
+T=367: Bee #11 completed Hive #268 with ['F', 268, 862, 1] --> 100 Points
+T=376: Bee #7 completed Hive #156 with ['F', 156, 275, 1] --> 100 Points
+T=393: Bee #19 completed Hive #228 with ['F', 228, 151, 1] --> 100 Points
+T=400: Bee #14 completed Hive #455 with ['F', 455, 512, 1] --> 100 Points
+T=410: Bee #9 completed Hive #747 with ['F', 747, 896, 1] --> 100 Points
+T=414: Bee #17 completed Hive #16 with ['F', 16, 931, 1] --> 100 Points
+T=427: Bee #12 completed Hive #328 with ['F', 328, 401, 1] --> 100 Points
+T=436: Bee #13 completed Hive #499 with ['F', 499, 10, 1] --> 100 Points
+T=456: Bee #19 completed Hive #646 with ['F', 646, 168, 1] --> 100 Points
+T=457: Bee #18 completed Hive #80 with ['F', 80, 247, 1] --> 100 Points
+T=463: Bee #0 completed Hive #139 with ['F', 139, 466, 1] --> 100 Points
+T=466: Bee #17 completed Hive #188 with ['F', 188, 953, 1] --> 100 Points
+T=470: Bee #16 completed Hive #194 with ['F', 194, 228, 1] --> 100 Points
+T=478: Bee #2 completed Hive #276 with ['F', 276, 616, 1] --> 100 Points
+T=482: Bee #1 completed Hive #273 with ['F', 273, 227, 1] --> 100 Points
+T=507: Bee #15 completed Hive #185 with ['F', 185, 159, 1] --> 100 Points
+T=507: Bee #3 completed Hive #262 with ['F', 262, 456, 1] --> 100 Points
+T=513: Bee #4 completed Hive #589 with ['F', 589, 783, 1] --> 100 Points
+T=518: Bee #6 completed Hive #703 with ['F', 703, 411, 1] --> 100 Points
+T=535: Bee #0 completed Hive #367 with ['F', 367, 210, 1] --> 100 Points
+T=545: Bee #5 completed Hive #600 with ['F', 600, 832, 1] --> 100 Points
+T=554: Bee #3 completed Hive #137 with ['F', 137, 994, 1] --> 100 Points
+T=557: Bee #8 completed Hive #664 with ['F', 664, 875, 1] --> 100 Points
+T=562: Bee #10 completed Hive #758 with ['F', 758, 225, 1] --> 100 Points
+T=601: Bee #7 completed Hive #415 with ['F', 415, 160, 1] --> 100 Points
+T=607: Bee #11 completed Hive #352 with ['F', 352, 384, 1] --> 100 Points
+T=628: Bee #19 completed Hive #634 with ['F', 634, 109, 1] --> 100 Points
+T=646: Bee #9 completed Hive #200 with ['F', 200, 284, 1] --> 100 Points
+T=654: Bee #14 completed Hive #305 with ['F', 305, 150, 1] --> 100 Points
+T=659: Bee #17 completed Hive #52 with ['F', 52, 931, 1] --> 100 Points
+T=670: Bee #12 completed Hive #320 with ['F', 320, 113, 1] --> 100 Points
+T=682: Bee #13 completed Hive #550 with ['F', 550, 490, 1] --> 100 Points
+T=684: Bee #1 completed Hive #323 with ['F', 323, 882, 1] --> 100 Points
+T=685: Bee #2 completed Hive #487 with ['F', 487, 262, 1] --> 100 Points
+T=724: Bee #18 completed Hive #742 with ['F', 742, 790, 1] --> 100 Points
+T=763: Bee #15 completed Hive #545 with ['F', 545, 999, 1] --> 100 Points
+T=820: Bee #4 completed Hive #466 with ['F', 466, 370, 1] --> 100 Points
+T=827: Bee #14 completed Hive #428 with ['F', 428, 724, 1] --> 100 Points
+T=834: Bee #6 completed Hive #289 with ['F', 289, 307, 1] --> 100 Points
+T=845: Bee #13 completed Hive #659 with ['F', 659, 594, 1] --> 100 Points
+T=853: Bee #5 completed Hive #387 with ['F', 387, 772, 1] --> 100 Points
+T=900: Bee #8 completed Hive #656 with ['F', 656, 730, 1] --> 100 Points
+T=906: Bee #19 completed Hive #38 with ['F', 38, 49, 1] --> 100 Points
+T=922: Bee #18 completed Hive #259 with ['F', 259, 382, 1] --> 100 Points
+T=926: Bee #7 completed Hive #190 with ['F', 190, 883, 1] --> 100 Points
+T=933: Bee #10 completed Hive #168 with ['F', 168, 52, 1] --> 100 Points
+T=939: Bee #15 completed Hive #332 with ['F', 332, 627, 1] --> 100 Points
+T=945: Bee #14 completed Hive #419 with ['F', 419, 355, 1] --> 100 Points
+T=975: Bee #1 completed Hive #441 with ['F', 441, 467, 1] --> 100 Points
+T=985: Bee #2 completed Hive #680 with ['F', 680, 735, 1] --> 100 Points
+T=1007: Bee #19 completed Hive #785 with ['F', 785, 486, 1] --> 100 Points
+T=1010: Bee #9 completed Hive #192 with ['F', 192, 36, 1] --> 100 Points
+T=1033: Bee #0 completed Hive #775 with ['F', 775, 659, 1] --> 100 Points
+T=1058: Bee #15 completed Hive #129 with ['F', 129, 127, 1] --> 100 Points
+T=1079: Bee #6 completed Hive #211 with ['F', 211, 141, 1] --> 100 Points
+T=1088: Bee #5 completed Hive #298 with ['F', 298, 142, 1] --> 100 Points
+T=1102: Bee #4 completed Hive #90 with ['F', 90, 60, 1] --> 100 Points
+T=1122: Bee #17 completed Hive #544 with ['F', 544, 388, 1] --> 100 Points
+T=1145: Bee #18 completed Hive #644 with ['F', 644, 922, 1] --> 100 Points
+T=1156: Bee #14 completed Hive #121 with ['F', 121, 918, 1] --> 100 Points
+T=1161: Bee #13 completed Hive #222 with ['F', 222, 154, 1] --> 100 Points
+T=1189: Bee #7 completed Hive #110 with ['F', 110, 189, 1] --> 100 Points
+T=1242: Bee #19 completed Hive #712 with ['F', 712, 459, 1] --> 100 Points
+T=1243: Bee #10 completed Hive #549 with ['F', 549, 785, 1] --> 100 Points
+T=1244: Bee #6 completed Hive #173 with ['F', 173, 123, 1] --> 100 Points
+T=1255: Bee #2 completed Hive #411 with ['F', 411, 239, 1] --> 100 Points
+T=1263: Bee #16 completed Hive #184 with ['F', 184, 983, 1] --> 100 Points
+T=1271: Bee #15 completed Hive #379 with ['F', 379, 796, 1] --> 100 Points
+T=1285: Bee #18 completed Hive #639 with ['F', 639, 940, 1] --> 100 Points
+T=1296: Bee #17 completed Hive #427 with ['F', 427, 62, 1] --> 100 Points
+T=1338: Bee #12 completed Hive #479 with ['F', 479, 437, 1] --> 100 Points
+T=1340: Bee #5 completed Hive #537 with ['F', 537, 593, 1] --> 100 Points
+T=1357: Bee #2 completed Hive #92 with ['F', 92, 185, 1] --> 100 Points
+T=1382: Bee #9 completed Hive #783 with ['F', 783, 459, 1] --> 100 Points
+T=1422: Bee #0 completed Hive #581 with ['F', 581, 467, 1] --> 100 Points
+T=1433: Bee #12 completed Hive #429 with ['F', 429, 649, 1] --> 100 Points
+T=1436: Bee #13 completed Hive #74 with ['F', 74, 614, 1] --> 100 Points
+T=1440: Bee #1 completed Hive #238 with ['F', 238, 319, 1] --> 100 Points
+T=1449: Bee #16 completed Hive #11 with ['F', 11, 856, 1] --> 100 Points
+T=1465: Bee #8 completed Hive #751 with ['F', 751, 879, 1] --> 99 Points
+T=1491: Bee #5 completed Hive #746 with ['F', 746, 448, 1] --> 99 Points
+T=1498: Bee #6 completed Hive #46 with ['F', 46, 773, 1] --> 99 Points
+T=1540: Bee #10 completed Hive #671 with ['F', 671, 672, 1] --> 99 Points
+T=1588: Bee #17 completed Hive #162 with ['F', 162, 794, 1] --> 99 Points
+T=1594: Bee #4 completed Hive #562 with ['F', 562, 177, 1] --> 99 Points
+T=1610: Bee #15 completed Hive #491 with ['F', 491, 856, 1] --> 99 Points
+T=1615: Bee #9 completed Hive #495 with ['F', 495, 521, 1] --> 99 Points
+T=1620: Bee #7 completed Hive #571 with ['F', 571, 967, 1] --> 99 Points
+T=1622: Bee #8 completed Hive #155 with ['F', 155, 926, 1] --> 99 Points
+T=1637: Bee #12 completed Hive #579 with ['F', 579, 261, 1] --> 99 Points
+T=1686: Bee #17 completed Hive #519 with ['F', 519, 615, 1] --> 99 Points
+T=1702: Bee #19 completed Hive #366 with ['F', 366, 326, 1] --> 99 Points
+T=1707: Bee #1 completed Hive #636 with ['F', 636, 168, 1] --> 99 Points
+T=1730: Bee #0 completed Hive #136 with ['F', 136, 68, 1] --> 99 Points
+T=1739: Bee #2 completed Hive #251 with ['F', 251, 782, 1] --> 99 Points
+T=1772: Bee #4 completed Hive #490 with ['F', 490, 675, 1] --> 99 Points
+T=1775: Bee #18 completed Hive #782 with ['F', 782, 906, 1] --> 99 Points
+T=1798: Bee #12 completed Hive #439 with ['F', 439, 268, 1] --> 99 Points
+T=1814: Bee #14 completed Hive #791 with ['F', 791, 218, 1] --> 99 Points
+T=1815: Bee #13 completed Hive #255 with ['F', 255, 215, 1] --> 99 Points
+T=1817: Bee #11 completed Hive #351 with ['F', 351, 911, 1] --> 99 Points
+T=1890: Bee #19 completed Hive #456 with ['F', 456, 803, 1] --> 99 Points
+T=1903: Bee #15 completed Hive #266 with ['F', 266, 574, 1] --> 99 Points
+T=1915: Bee #2 completed Hive #264 with ['F', 264, 104, 1] --> 99 Points
+T=1948: Bee #1 completed Hive #422 with ['F', 422, 917, 1] --> 99 Points
+T=1959: Bee #7 completed Hive #205 with ['F', 205, 335, 1] --> 99 Points
+T=1964: Bee #9 completed Hive #597 with ['F', 597, 654, 1] --> 99 Points
+T=1967: Bee #8 completed Hive #12 with ['F', 12, 431, 1] --> 99 Points
+T=1996: Bee #6 completed Hive #528 with ['F', 528, 991, 1] --> 99 Points
+T=2057: Bee #10 completed Hive #330 with ['F', 330, 898, 1] --> 99 Points
+T=2072: Bee #19 completed Hive #603 with ['F', 603, 257, 1] --> 99 Points
+T=2084: Bee #5 completed Hive #21 with ['F', 21, 779, 1] --> 99 Points
+T=2136: Bee #2 completed Hive #596 with ['F', 596, 635, 1] --> 99 Points
+T=2168: Bee #14 completed Hive #50 with ['F', 50, 345, 1] --> 99 Points
+T=2184: Bee #4 completed Hive #788 with ['F', 788, 702, 1] --> 99 Points
+T=2192: Bee #12 completed Hive #638 with ['F', 638, 688, 1] --> 99 Points
+T=2216: Bee #0 completed Hive #346 with ['F', 346, 397, 1] --> 99 Points
+T=2244: Bee #7 completed Hive #97 with ['F', 97, 480, 1] --> 99 Points
+T=2247: Bee #6 completed Hive #314 with ['F', 314, 809, 1] --> 99 Points
+T=2255: Bee #9 completed Hive #362 with ['F', 362, 739, 1] --> 99 Points
+T=2262: Bee #15 completed Hive #244 with ['F', 244, 870, 1] --> 99 Points
+T=2268: Bee #17 completed Hive #96 with ['F', 96, 795, 1] --> 99 Points
+T=2313: Bee #10 completed Hive #691 with ['F', 691, 181, 1] --> 99 Points
+T=2318: Bee #12 completed Hive #444 with ['F', 444, 553, 1] --> 99 Points
+T=2323: Bee #2 completed Hive #693 with ['F', 693, 64, 1] --> 99 Points
+T=2326: Bee #7 completed Hive #547 with ['F', 547, 852, 1] --> 99 Points
+T=2338: Bee #5 completed Hive #94 with ['F', 94, 713, 1] --> 99 Points
+T=2342: Bee #14 completed Hive #199 with ['F', 199, 43, 1] --> 99 Points
+T=2344: Bee #8 completed Hive #42 with ['F', 42, 561, 1] --> 99 Points
+T=2345: Bee #18 completed Hive #176 with ['F', 176, 639, 1] --> 99 Points
+T=2378: Bee #4 completed Hive #288 with ['F', 288, 116, 1] --> 99 Points
+T=2409: Bee #12 completed Hive #432 with ['F', 432, 947, 1] --> 99 Points
+T=2418: Bee #15 completed Hive #374 with ['F', 374, 372, 1] --> 99 Points
+T=2420: Bee #0 completed Hive #474 with ['F', 474, 110, 1] --> 99 Points
+T=2432: Bee #17 completed Hive #197 with ['F', 197, 622, 1] --> 99 Points
+T=2511: Bee #2 completed Hive #234 with ['F', 234, 391, 1] --> 99 Points
+T=2529: Bee #11 completed Hive #279 with ['F', 279, 186, 1] --> 99 Points
+T=2552: Bee #14 completed Hive #633 with ['F', 633, 825, 1] --> 99 Points
+T=2563: Bee #6 completed Hive #540 with ['F', 540, 382, 1] --> 99 Points
+T=2576: Bee #19 completed Hive #133 with ['F', 133, 397, 1] --> 99 Points
+T=2610: Bee #4 completed Hive #4 with ['F', 4, 825, 1] --> 99 Points
+T=2619: Bee #15 completed Hive #721 with ['F', 721, 926, 1] --> 99 Points
+T=2621: Bee #8 completed Hive #306 with ['F', 306, 476, 1] --> 99 Points
+T=2642: Bee #10 completed Hive #61 with ['F', 61, 105, 1] --> 99 Points
+T=2650: Bee #17 completed Hive #446 with ['F', 446, 1, 1] --> 99 Points
+T=2685: Bee #13 completed Hive #170 with ['F', 170, 392, 1] --> 99 Points
+T=2699: Bee #12 completed Hive #515 with ['F', 515, 349, 1] --> 99 Points
+T=2739: Bee #2 completed Hive #796 with ['F', 796, 477, 1] --> 99 Points
+T=2786: Bee #1 completed Hive #210 with ['F', 210, 543, 1] --> 99 Points
+T=2803: Bee #16 completed Hive #668 with ['F', 668, 981, 1] --> 99 Points
+T=2855: Bee #8 completed Hive #699 with ['F', 699, 87, 1] --> 99 Points
+T=2858: Bee #11 completed Hive #530 with ['F', 530, 882, 1] --> 99 Points
+T=2882: Bee #2 completed Hive #392 with ['F', 392, 513, 1] --> 99 Points
+T=2892: Bee #19 completed Hive #107 with ['F', 107, 650, 1] --> 99 Points
+T=2958: Bee #5 completed Hive #448 with ['F', 448, 504, 1] --> 98 Points
+T=2973: Bee #0 completed Hive #772 with ['F', 772, 607, 1] --> 98 Points
+T=2979: Bee #10 completed Hive #322 with ['F', 322, 286, 1] --> 98 Points
+T=2988: Bee #15 completed Hive #359 with ['F', 359, 222, 1] --> 98 Points
+T=3009: Bee #8 completed Hive #59 with ['F', 59, 328, 1] --> 98 Points
+T=3039: Bee #1 completed Hive #407 with ['F', 407, 310, 1] --> 98 Points
+T=3068: Bee #10 completed Hive #383 with ['F', 383, 607, 1] --> 98 Points
+T=3118: Bee #18 completed Hive #764 with ['F', 764, 89, 1] --> 98 Points
+T=3119: Bee #14 completed Hive #8 with ['F', 8, 858, 1] --> 98 Points
+T=3124: Bee #7 completed Hive #795 with ['F', 795, 691, 1] --> 98 Points
+T=3128: Bee #11 completed Hive #341 with ['F', 341, 607, 1] --> 98 Points
+T=3147: Bee #15 completed Hive #64 with ['F', 64, 659, 1] --> 98 Points
+T=3185: Bee #2 completed Hive #493 with ['F', 493, 252, 1] --> 98 Points
+T=3271: Bee #16 completed Hive #309 with ['F', 309, 1, 1] --> 98 Points
+T=3284: Bee #5 completed Hive #201 with ['F', 201, 391, 1] --> 98 Points
+T=3284: Bee #13 completed Hive #496 with ['F', 496, 764, 1] --> 98 Points
+T=3311: Bee #0 completed Hive #261 with ['F', 261, 673, 1] --> 98 Points
+T=3331: Bee #18 completed Hive #619 with ['F', 619, 797, 1] --> 98 Points
+T=3397: Bee #10 completed Hive #624 with ['F', 624, 739, 1] --> 98 Points
+T=3443: Bee #6 completed Hive #265 with ['F', 265, 441, 1] --> 98 Points
+T=3448: Bee #11 completed Hive #232 with ['F', 232, 475, 1] --> 98 Points
+T=3450: Bee #7 completed Hive #242 with ['F', 242, 710, 1] --> 98 Points
+T=3466: Bee #19 completed Hive #164 with ['F', 164, 644, 1] --> 98 Points
+T=3474: Bee #15 completed Hive #716 with ['F', 716, 239, 1] --> 98 Points
+T=3539: Bee #0 completed Hive #370 with ['F', 370, 820, 1] --> 98 Points
+T=3556: Bee #2 completed Hive #647 with ['F', 647, 289, 1] --> 98 Points
+T=3628: Bee #13 completed Hive #674 with ['F', 674, 707, 1] --> 98 Points
+T=3645: Bee #11 completed Hive #249 with ['F', 249, 793, 1] --> 98 Points
+T=3691: Bee #18 completed Hive #174 with ['F', 174, 85, 1] --> 98 Points
+T=3693: Bee #10 completed Hive #131 with ['F', 131, 943, 1] --> 98 Points
+T=3704: Bee #15 completed Hive #159 with ['F', 159, 320, 1] --> 98 Points
+T=3712: Bee #5 completed Hive #768 with ['F', 768, 891, 1] --> 98 Points
+T=3726: Bee #13 completed Hive #271 with ['F', 271, 219, 1] --> 98 Points
+T=3791: Bee #11 completed Hive #508 with ['F', 508, 716, 1] --> 98 Points
+T=3807: Bee #18 completed Hive #489 with ['F', 489, 381, 1] --> 98 Points
+T=3812: Bee #5 completed Hive #794 with ['F', 794, 727, 1] --> 98 Points
+T=3816: Bee #2 completed Hive #25 with ['F', 25, 937, 1] --> 98 Points
+T=3823: Bee #0 completed Hive #477 with ['F', 477, 554, 1] --> 98 Points
+T=3838: Bee #15 completed Hive #601 with ['F', 601, 388, 1] --> 98 Points
+T=3932: Bee #4 completed Hive #641 with ['F', 641, 295, 1] --> 98 Points
+T=3935: Bee #15 completed Hive #86 with ['F', 86, 548, 1] --> 98 Points
+T=3973: Bee #11 completed Hive #41 with ['F', 41, 175, 1] --> 98 Points
+T=3979: Bee #6 completed Hive #258 with ['F', 258, 961, 1] --> 98 Points
+T=3999: Bee #8 completed Hive #66 with ['F', 66, 391, 1] --> 98 Points
+T=3999: Bee #2 completed Hive #292 with ['F', 292, 249, 1] --> 98 Points
+T=4020: Bee #16 completed Hive #536 with ['F', 536, 741, 1] --> 98 Points
+T=4029: Bee #0 completed Hive #683 with ['F', 683, 60, 1] --> 98 Points
+T=4057: Bee #8 completed Hive #458 with ['F', 458, 978, 1] --> 98 Points
+T=4066: Bee #7 completed Hive #209 with ['F', 209, 883, 1] --> 98 Points
+T=4081: Bee #11 completed Hive #451 with ['F', 451, 372, 1] --> 98 Points
+T=4096: Bee #5 completed Hive #24 with ['F', 24, 961, 1] --> 98 Points
+T=4110: Bee #19 completed Hive #426 with ['F', 426, 235, 1] --> 98 Points
+T=4126: Bee #4 completed Hive #0 with ['F', 0, 38, 1] --> 98 Points
+T=4144: Bee #13 completed Hive #557 with ['F', 557, 371, 1] --> 98 Points
+T=4201: Bee #10 completed Hive #113 with ['F', 113, 829, 1] --> 98 Points
+T=4230: Bee #15 completed Hive #488 with ['F', 488, 887, 1] --> 98 Points
+T=4253: Bee #19 completed Hive #263 with ['F', 263, 435, 1] --> 98 Points
+T=4285: Bee #8 completed Hive #640 with ['F', 640, 799, 1] --> 98 Points
+T=4311: Bee #2 completed Hive #253 with ['F', 253, 889, 1] --> 98 Points
+T=4351: Bee #15 completed Hive #47 with ['F', 47, 270, 1] --> 97 Points
+T=4411: Bee #11 completed Hive #85 with ['F', 85, 367, 1] --> 97 Points
+T=4416: Bee #5 completed Hive #524 with ['F', 524, 46, 1] --> 97 Points
+T=4419: Bee #18 completed Hive #331 with ['F', 331, 937, 1] --> 97 Points
+T=4487: Bee #8 completed Hive #414 with ['F', 414, 384, 1] --> 97 Points
+T=4518: Bee #13 completed Hive #87 with ['F', 87, 239, 1] --> 97 Points
+T=4604: Bee #8 completed Hive #665 with ['F', 665, 671, 1] --> 97 Points
+T=4659: Bee #2 completed Hive #32 with ['F', 32, 693, 1] --> 97 Points
+T=4659: Bee #5 completed Hive #704 with ['F', 704, 261, 1] --> 97 Points
+T=4671: Bee #11 completed Hive #27 with ['F', 27, 199, 1] --> 97 Points
+T=4676: Bee #7 completed Hive #239 with ['F', 239, 871, 1] --> 97 Points
+T=4690: Bee #19 completed Hive #480 with ['F', 480, 381, 1] --> 97 Points
+T=4730: Bee #15 completed Hive #63 with ['F', 63, 85, 1] --> 97 Points
+T=4804: Bee #13 completed Hive #319 with ['F', 319, 70, 1] --> 97 Points
+T=4807: Bee #0 completed Hive #182 with ['F', 182, 262, 1] --> 97 Points
+T=4847: Bee #8 completed Hive #318 with ['F', 318, 697, 1] --> 97 Points
+T=4868: Bee #4 completed Hive #355 with ['F', 355, 697, 1] --> 97 Points
+T=4924: Bee #7 completed Hive #106 with ['F', 106, 607, 1] --> 97 Points
+T=4929: Bee #2 completed Hive #126 with ['F', 126, 427, 1] --> 97 Points
+T=4949: Bee #11 completed Hive #655 with ['F', 655, 486, 1] --> 97 Points
+T=4995: Bee #13 completed Hive #694 with ['F', 694, 604, 1] --> 97 Points
+T=5016: Bee #15 completed Hive #430 with ['F', 430, 922, 1] --> 97 Points
+T=5024: Bee #6 completed Hive #304 with ['F', 304, 512, 1] --> 97 Points
+T=5066: Bee #19 completed Hive #687 with ['F', 687, 758, 1] --> 97 Points
+T=5076: Bee #5 completed Hive #741 with ['F', 741, 381, 1] --> 97 Points
+T=5103: Bee #2 completed Hive #299 with ['F', 299, 970, 1] --> 97 Points
+T=5115: Bee #8 completed Hive #100 with ['F', 100, 106, 1] --> 97 Points
+T=5138: Bee #11 completed Hive #274 with ['F', 274, 7, 1] --> 97 Points
+T=5156: Bee #0 completed Hive #34 with ['F', 34, 509, 1] --> 97 Points
+T=5169: Bee #18 completed Hive #1 with ['F', 1, 782, 1] --> 97 Points
+T=5202: Bee #7 completed Hive #511 with ['F', 511, 177, 1] --> 97 Points
+T=5206: Bee #15 completed Hive #472 with ['F', 472, 96, 1] --> 97 Points
+T=5279: Bee #18 completed Hive #396 with ['F', 396, 97, 1] --> 97 Points
+T=5345: Bee #10 completed Hive #357 with ['F', 357, 384, 1] --> 97 Points
+T=5385: Bee #0 completed Hive #70 with ['F', 70, 971, 1] --> 97 Points
+T=5480: Bee #0 completed Hive #294 with ['F', 294, 270, 1] --> 97 Points
+T=5482: Bee #2 completed Hive #342 with ['F', 342, 276, 1] --> 97 Points
+T=5508: Bee #5 completed Hive #620 with ['F', 620, 553, 1] --> 97 Points
+T=5607: Bee #8 completed Hive #360 with ['F', 360, 163, 1] --> 97 Points
+T=5631: Bee #0 completed Hive #434 with ['F', 434, 388, 1] --> 97 Points
+T=5662: Bee #19 completed Hive #376 with ['F', 376, 588, 1] --> 97 Points
+T=5690: Bee #13 completed Hive #607 with ['F', 607, 377, 1] --> 97 Points
+T=5700: Bee #4 completed Hive #743 with ['F', 743, 623, 1] --> 97 Points
+T=5738: Bee #2 completed Hive #436 with ['F', 436, 427, 1] --> 97 Points
+T=5831: Bee #11 completed Hive #722 with ['F', 722, 774, 1] --> 96 Points
+T=5864: Bee #4 completed Hive #561 with ['F', 561, 89, 1] --> 96 Points
+T=5875: Bee #9 completed Hive #652 with ['F', 652, 74, 1] --> 96 Points
+T=5889: Bee #11 completed Hive #313 with ['F', 313, 686, 1] --> 96 Points
+T=5919: Bee #18 completed Hive #310 with ['F', 310, 419, 1] --> 96 Points
+T=5940: Bee #15 completed Hive #311 with ['F', 311, 499, 1] --> 96 Points
+T=5962: Bee #13 completed Hive #421 with ['F', 421, 492, 1] --> 96 Points
+T=5970: Bee #4 completed Hive #5 with ['F', 5, 597, 1] --> 96 Points
+T=6047: Bee #8 completed Hive #797 with ['F', 797, 690, 1] --> 96 Points
+T=6048: Bee #15 completed Hive #696 with ['F', 696, 765, 1] --> 96 Points
+T=6061: Bee #0 completed Hive #363 with ['F', 363, 871, 1] --> 96 Points
+T=6096: Bee #2 completed Hive #482 with ['F', 482, 558, 1] --> 96 Points
+T=6101: Bee #11 completed Hive #102 with ['F', 102, 150, 1] --> 96 Points
+T=6139: Bee #8 completed Hive #153 with ['F', 153, 66, 1] --> 96 Points
+T=6151: Bee #15 completed Hive #68 with ['F', 68, 936, 1] --> 96 Points
+T=6166: Bee #13 completed Hive #440 with ['F', 440, 669, 1] --> 96 Points
+T=6175: Bee #18 completed Hive #109 with ['F', 109, 124, 1] --> 96 Points
+T=6179: Bee #2 completed Hive #730 with ['F', 730, 727, 1] --> 96 Points
+T=6284: Bee #4 completed Hive #388 with ['F', 388, 593, 1] --> 96 Points
+T=6287: Bee #13 completed Hive #399 with ['F', 399, 184, 1] --> 96 Points
+T=6291: Bee #8 completed Hive #594 with ['F', 594, 107, 1] --> 96 Points
+T=6305: Bee #11 completed Hive #282 with ['F', 282, 458, 1] --> 96 Points
+T=6307: Bee #0 completed Hive #198 with ['F', 198, 238, 1] --> 96 Points
+T=6350: Bee #7 completed Hive #720 with ['F', 720, 904, 1] --> 96 Points
+T=6353: Bee #15 completed Hive #281 with ['F', 281, 937, 1] --> 96 Points
+T=6399: Bee #8 completed Hive #564 with ['F', 564, 619, 1] --> 96 Points
+T=6481: Bee #18 completed Hive #83 with ['F', 83, 660, 1] --> 96 Points
+T=6524: Bee #4 completed Hive #542 with ['F', 542, 12, 1] --> 96 Points
+T=6531: Bee #11 completed Hive #749 with ['F', 749, 922, 1] --> 96 Points
+T=6564: Bee #6 completed Hive #218 with ['F', 218, 847, 1] --> 96 Points
+T=6577: Bee #15 completed Hive #183 with ['F', 183, 643, 1] --> 96 Points
+T=6650: Bee #13 completed Hive #643 with ['F', 643, 15, 1] --> 96 Points
+T=6721: Bee #8 completed Hive #642 with ['F', 642, 201, 1] --> 96 Points
+T=6781: Bee #11 completed Hive #13 with ['F', 13, 663, 1] --> 96 Points
+T=6786: Bee #4 completed Hive #118 with ['F', 118, 872, 1] --> 96 Points
+T=6903: Bee #0 completed Hive #31 with ['F', 31, 879, 1] --> 96 Points
+T=6946: Bee #13 completed Hive #737 with ['F', 737, 779, 1] --> 96 Points
+T=6948: Bee #15 completed Hive #285 with ['F', 285, 660, 1] --> 96 Points
+T=6965: Bee #8 completed Hive #420 with ['F', 420, 552, 1] --> 96 Points
+T=6994: Bee #2 completed Hive #167 with ['F', 167, 805, 1] --> 96 Points
+T=7021: Bee #2 completed Hive #377 with ['F', 377, 499, 1] --> 96 Points
+T=7065: Bee #11 completed Hive #756 with ['F', 756, 261, 1] --> 96 Points
+T=7086: Bee #7 completed Hive #533 with ['F', 533, 140, 1] --> 96 Points
+T=7092: Bee #4 completed Hive #476 with ['F', 476, 913, 1] --> 96 Points
+T=7114: Bee #8 completed Hive #316 with ['F', 316, 35, 1] --> 96 Points
+T=7162: Bee #17 completed Hive #454 with ['F', 454, 588, 1] --> 96 Points
+T=7165: Bee #18 completed Hive #759 with ['F', 759, 728, 1] --> 96 Points
+T=7246: Bee #15 completed Hive #403 with ['F', 403, 43, 1] --> 96 Points
+T=7250: Bee #0 completed Hive #732 with ['F', 732, 673, 1] --> 95 Points
+T=7266: Bee #13 completed Hive #563 with ['F', 563, 149, 1] --> 95 Points
+T=7375: Bee #11 completed Hive #682 with ['F', 682, 338, 1] --> 95 Points
+T=7391: Bee #2 completed Hive #19 with ['F', 19, 414, 1] --> 95 Points
+T=7414: Bee #15 completed Hive #416 with ['F', 416, 631, 1] --> 95 Points
+T=7436: Bee #4 completed Hive #212 with ['F', 212, 920, 1] --> 95 Points
+T=7484: Bee #6 completed Hive #224 with ['F', 224, 906, 1] --> 95 Points
+T=7546: Bee #19 completed Hive #148 with ['F', 148, 629, 1] --> 95 Points
+T=7561: Bee #8 completed Hive #410 with ['F', 410, 205, 1] --> 95 Points
+T=7616: Bee #13 completed Hive #739 with ['F', 739, 438, 1] --> 95 Points
+T=7632: Bee #17 completed Hive #582 with ['F', 582, 4, 1] --> 95 Points
+T=7636: Bee #0 completed Hive #166 with ['F', 166, 621, 1] --> 95 Points
+T=7721: Bee #11 completed Hive #143 with ['F', 143, 930, 1] --> 95 Points
+T=7812: Bee #4 completed Hive #469 with ['F', 469, 430, 1] --> 95 Points
+T=7889: Bee #7 completed Hive #713 with ['F', 713, 748, 1] --> 95 Points
+T=7905: Bee #8 completed Hive #459 with ['F', 459, 208, 1] --> 95 Points
+T=7926: Bee #15 completed Hive #755 with ['F', 755, 896, 1] --> 95 Points
+T=7969: Bee #3 completed Hive #767 with ['F', 767, 622, 1] --> 95 Points
+T=8000: Bee #13 completed Hive #613 with ['F', 613, 698, 1] --> 95 Points
+T=8056: Bee #19 completed Hive #237 with ['F', 237, 977, 1] --> 95 Points
+T=8096: Bee #8 completed Hive #718 with ['F', 718, 917, 1] --> 95 Points
+T=8107: Bee #11 completed Hive #169 with ['F', 169, 921, 1] --> 95 Points
+T=8123: Bee #15 completed Hive #417 with ['F', 417, 330, 1] --> 95 Points
+T=8168: Bee #19 completed Hive #700 with ['F', 700, 867, 1] --> 95 Points
+T=8173: Bee #10 completed Hive #51 with ['F', 51, 400, 1] --> 95 Points
+T=8173: Bee #18 completed Hive #593 with ['F', 593, 802, 1] --> 95 Points
+T=8179: Bee #2 completed Hive #408 with ['F', 408, 624, 1] --> 95 Points
+T=8218: Bee #4 completed Hive #67 with ['F', 67, 110, 1] --> 95 Points
+T=8276: Bee #6 completed Hive #578 with ['F', 578, 922, 1] --> 95 Points
+T=8302: Bee #4 completed Hive #76 with ['F', 76, 127, 1] --> 95 Points
+T=8333: Bee #18 completed Hive #375 with ['F', 375, 261, 1] --> 95 Points
+T=8350: Bee #11 completed Hive #708 with ['F', 708, 798, 1] --> 95 Points
+T=8365: Bee #4 completed Hive #308 with ['F', 308, 563, 1] --> 95 Points
+T=8368: Bee #6 completed Hive #220 with ['F', 220, 372, 1] --> 95 Points
+T=8387: Bee #2 completed Hive #461 with ['F', 461, 790, 2] --> 95 Points
+T=8404: Bee #17 completed Hive #93 with ['F', 93, 480, 1] --> 95 Points
+T=8533: Bee #18 completed Hive #692 with ['F', 692, 951, 1] --> 95 Points
+T=8604: Bee #4 completed Hive #390 with ['F', 390, 498, 1] --> 95 Points
+T=8675: Bee #11 completed Hive #207 with ['F', 207, 121, 1] --> 95 Points
+T=8681: Bee #6 completed Hive #556 with ['F', 556, 575, 1] --> 95 Points
+T=8695: Bee #8 completed Hive #509 with ['F', 509, 642, 1] --> 95 Points
+T=8742: Bee #13 completed Hive #780 with ['F', 780, 540, 1] --> 94 Points
+T=8746: Bee #17 completed Hive #553 with ['F', 553, 338, 1] --> 94 Points
+T=8765: Bee #18 completed Hive #144 with ['F', 144, 879, 1] --> 94 Points
+T=8768: Bee #19 completed Hive #580 with ['F', 580, 153, 1] --> 94 Points
+T=8786: Bee #8 completed Hive #452 with ['F', 452, 2, 1] --> 94 Points
+T=8798: Bee #15 completed Hive #599 with ['F', 599, 914, 1] --> 94 Points
+T=8807: Bee #11 completed Hive #138 with ['F', 138, 786, 1] --> 94 Points
+T=8807: Bee #6 completed Hive #736 with ['F', 736, 808, 1] --> 94 Points
+T=8825: Bee #8 completed Hive #115 with ['F', 115, 854, 1] --> 94 Points
+T=8885: Bee #2 completed Hive #729 with ['F', 729, 320, 1] --> 94 Points
+T=8898: Bee #15 completed Hive #393 with ['F', 393, 745, 1] --> 94 Points
+T=9003: Bee #11 completed Hive #724 with ['F', 724, 551, 1] --> 94 Points
+T=9019: Bee #8 completed Hive #500 with ['F', 500, 362, 1] --> 94 Points
+T=9024: Bee #19 completed Hive #523 with ['F', 523, 908, 1] --> 94 Points
+T=9052: Bee #15 completed Hive #740 with ['F', 740, 404, 1] --> 94 Points
+T=9054: Bee #4 completed Hive #256 with ['F', 256, 31, 1] --> 94 Points
+T=9159: Bee #2 completed Hive #512 with ['F', 512, 497, 1] --> 94 Points
+T=9175: Bee #7 completed Hive #609 with ['F', 609, 166, 1] --> 94 Points
+T=9217: Bee #11 completed Hive #752 with ['F', 752, 688, 1] --> 94 Points
+T=9235: Bee #8 completed Hive #337 with ['F', 337, 372, 1] --> 94 Points
+T=9252: Bee #15 completed Hive #196 with ['F', 196, 314, 1] --> 94 Points
+T=9298: Bee #19 completed Hive #350 with ['F', 350, 829, 1] --> 94 Points
+T=9307: Bee #6 completed Hive #666 with ['F', 666, 927, 1] --> 94 Points
+T=9359: Bee #8 completed Hive #497 with ['F', 497, 883, 1] --> 94 Points
+T=9422: Bee #13 completed Hive #301 with ['F', 301, 816, 1] --> 94 Points
+T=9482: Bee #15 completed Hive #108 with ['F', 108, 158, 1] --> 94 Points
+T=9537: Bee #2 completed Hive #112 with ['F', 112, 304, 1] --> 94 Points
+T=9598: Bee #4 completed Hive #779 with ['F', 779, 199, 1] --> 94 Points
+T=9655: Bee #18 completed Hive #54 with ['F', 54, 430, 1] --> 94 Points
+T=9733: Bee #11 completed Hive #505 with ['F', 505, 391, 1] --> 94 Points
+T=9734: Bee #15 completed Hive #774 with ['F', 774, 894, 1] --> 94 Points
+T=9741: Bee #8 completed Hive #79 with ['F', 79, 270, 1] --> 94 Points
+T=9743: Bee #7 completed Hive #91 with ['F', 91, 963, 1] --> 94 Points
+T=9826: Bee #17 completed Hive #575 with ['F', 575, 162, 1] --> 94 Points
+T=9906: Bee #8 completed Hive #29 with ['F', 29, 105, 1] --> 94 Points
+T=9999: Bee #6 completed Hive #625 with ['F', 625, 57, 1] --> 94 Points
+T=10006: Bee #15 completed Hive #395 with ['F', 395, 634, 1] --> 94 Points
+T=10012: Bee #13 completed Hive #590 with ['F', 590, 93, 1] --> 94 Points
+T=10084: Bee #15 completed Hive #229 with ['F', 229, 149, 1] --> 94 Points
+T=10137: Bee #18 completed Hive #161 with ['F', 161, 990, 1] --> 94 Points
+T=10249: Bee #18 completed Hive #321 with ['F', 321, 216, 1] --> 93 Points
+T=10326: Bee #17 completed Hive #612 with ['F', 612, 464, 1] --> 93 Points
+T=10328: Bee #15 completed Hive #72 with ['F', 72, 452, 1] --> 93 Points
+T=10395: Bee #18 completed Hive #327 with ['F', 327, 35, 1] --> 93 Points
+T=10455: Bee #8 completed Hive #586 with ['F', 586, 521, 1] --> 93 Points
+T=10483: Bee #2 completed Hive #602 with ['F', 602, 914, 1] --> 93 Points
+T=10484: Bee #13 completed Hive #45 with ['F', 45, 198, 1] --> 93 Points
+T=10485: Bee #11 completed Hive #710 with ['F', 710, 549, 1] --> 93 Points
+T=10496: Bee #4 completed Hive #189 with ['F', 189, 593, 1] --> 93 Points
+T=10539: Bee #8 completed Hive #447 with ['F', 447, 829, 1] --> 93 Points
+T=10552: Bee #19 completed Hive #627 with ['F', 627, 470, 1] --> 93 Points
+T=10579: Bee #11 completed Hive #89 with ['F', 89, 691, 1] --> 93 Points
+T=10606: Bee #4 completed Hive #302 with ['F', 302, 451, 1] --> 93 Points
+T=10651: Bee #8 completed Hive #471 with ['F', 471, 994, 1] --> 93 Points
+T=10662: Bee #15 completed Hive #526 with ['F', 526, 785, 1] --> 93 Points
+T=10685: Bee #2 completed Hive #204 with ['F', 204, 298, 1] --> 93 Points
+T=10695: Bee #11 completed Hive #717 with ['F', 717, 375, 1] --> 93 Points
+T=10702: Bee #13 completed Hive #6 with ['F', 6, 303, 1] --> 93 Points
+T=10730: Bee #15 completed Hive #766 with ['F', 766, 129, 2] --> 93 Points
+T=10750: Bee #4 completed Hive #711 with ['F', 711, 847, 1] --> 93 Points
+T=10754: Bee #19 completed Hive #697 with ['F', 697, 846, 1] --> 93 Points
+T=10797: Bee #8 completed Hive #123 with ['F', 123, 163, 1] --> 93 Points
+T=10847: Bee #11 completed Hive #787 with ['F', 787, 181, 1] --> 93 Points
+T=10851: Bee #4 completed Hive #105 with ['F', 105, 513, 1] --> 93 Points
+T=10858: Bee #13 completed Hive #541 with ['F', 541, 919, 1] --> 93 Points
+T=10885: Bee #15 completed Hive #95 with ['F', 95, 114, 1] --> 93 Points
+T=10991: Bee #8 completed Hive #206 with ['F', 206, 105, 1] --> 93 Points
+T=11003: Bee #18 completed Hive #667 with ['F', 667, 205, 1] --> 93 Points
+T=11008: Bee #19 completed Hive #483 with ['F', 483, 252, 1] --> 93 Points
+T=11039: Bee #11 completed Hive #560 with ['F', 560, 31, 1] --> 93 Points
+T=11148: Bee #4 completed Hive #77 with ['F', 77, 21, 1] --> 93 Points
+T=11166: Bee #15 completed Hive #389 with ['F', 389, 974, 1] --> 93 Points
+T=11197: Bee #8 completed Hive #406 with ['F', 406, 648, 1] --> 93 Points
+T=11215: Bee #2 completed Hive #334 with ['F', 334, 794, 1] --> 93 Points
+T=11247: Bee #11 completed Hive #576 with ['F', 576, 255, 1] --> 93 Points
+T=11284: Bee #19 completed Hive #635 with ['F', 635, 401, 1] --> 93 Points
+T=11383: Bee #15 completed Hive #226 with ['F', 226, 315, 1] --> 93 Points
+T=11410: Bee #4 completed Hive #78 with ['F', 78, 637, 1] --> 93 Points
+T=11457: Bee #8 completed Hive #270 with ['F', 270, 999, 1] --> 93 Points
+T=11458: Bee #15 completed Hive #606 with ['F', 606, 813, 1] --> 93 Points
+T=11515: Bee #11 completed Hive #793 with ['F', 793, 491, 1] --> 93 Points
+T=11521: Bee #2 completed Hive #7 with ['F', 7, 297, 1] --> 93 Points
+T=11556: Bee #4 completed Hive #618 with ['F', 618, 179, 1] --> 93 Points
+T=11588: Bee #19 completed Hive #654 with ['F', 654, 795, 1] --> 93 Points
+T=11607: Bee #8 completed Hive #44 with ['F', 44, 109, 1] --> 92 Points
+T=11667: Bee #11 completed Hive #662 with ['F', 662, 211, 1] --> 92 Points
+T=11756: Bee #15 completed Hive #773 with ['F', 773, 649, 1] --> 92 Points
+T=11860: Bee #4 completed Hive #532 with ['F', 532, 145, 1] --> 92 Points
+T=11941: Bee #18 completed Hive #223 with ['F', 223, 979, 1] --> 92 Points
+T=11946: Bee #19 completed Hive #345 with ['F', 345, 113, 1] --> 92 Points
+T=12069: Bee #8 completed Hive #215 with ['F', 215, 127, 1] --> 92 Points
+T=12104: Bee #15 completed Hive #147 with ['F', 147, 920, 1] --> 92 Points
+T=12180: Bee #13 completed Hive #397 with ['F', 397, 55, 1] --> 92 Points
+T=12311: Bee #2 completed Hive #473 with ['F', 473, 534, 1] --> 92 Points
+T=12358: Bee #19 completed Hive #622 with ['F', 622, 703, 1] --> 92 Points
+T=12380: Bee #4 completed Hive #765 with ['F', 765, 401, 1] --> 92 Points
+T=12417: Bee #2 completed Hive #402 with ['F', 402, 946, 1] --> 92 Points
+T=12446: Bee #19 completed Hive #400 with ['F', 400, 904, 1] --> 92 Points
+T=12455: Bee #8 completed Hive #610 with ['F', 610, 445, 1] --> 92 Points
+T=12510: Bee #15 completed Hive #117 with ['F', 117, 297, 1] --> 92 Points
+T=12529: Bee #11 completed Hive #247 with ['F', 247, 594, 1] --> 92 Points
+T=12551: Bee #2 completed Hive #676 with ['F', 676, 753, 1] --> 92 Points
+T=12572: Bee #19 completed Hive #464 with ['F', 464, 925, 1] --> 92 Points
+T=12603: Bee #4 completed Hive #88 with ['F', 88, 299, 1] --> 92 Points
+T=12626: Bee #13 completed Hive #312 with ['F', 312, 431, 1] --> 92 Points
+T=12704: Bee #15 completed Hive #33 with ['F', 33, 719, 1] --> 92 Points
+T=12766: Bee #19 completed Hive #245 with ['F', 245, 643, 1] --> 92 Points
+T=12894: Bee #15 completed Hive #179 with ['F', 179, 816, 1] --> 92 Points
+T=12909: Bee #8 completed Hive #637 with ['F', 637, 561, 1] --> 92 Points
+T=12930: Bee #4 completed Hive #543 with ['F', 543, 597, 1] --> 92 Points
+T=12957: Bee #2 completed Hive #267 with ['F', 267, 707, 1] --> 92 Points
+T=12978: Bee #19 completed Hive #254 with ['F', 254, 28, 1] --> 92 Points
+T=13001: Bee #11 completed Hive #695 with ['F', 695, 413, 1] --> 92 Points
+T=13002: Bee #4 completed Hive #438 with ['F', 438, 699, 1] --> 92 Points
+T=13021: Bee #8 completed Hive #577 with ['F', 577, 628, 1] --> 92 Points
+T=13100: Bee #15 completed Hive #733 with ['F', 733, 505, 1] --> 91 Points
+T=13105: Bee #8 completed Hive #510 with ['F', 510, 18, 1] --> 91 Points
+T=13117: Bee #11 completed Hive #49 with ['F', 49, 891, 1] --> 91 Points
+T=13201: Bee #2 completed Hive #777 with ['F', 777, 703, 1] --> 91 Points
+T=13215: Bee #15 completed Hive #140 with ['F', 140, 688, 1] --> 91 Points
+T=13219: Bee #11 completed Hive #300 with ['F', 300, 870, 1] --> 91 Points
+T=13264: Bee #4 completed Hive #336 with ['F', 336, 801, 1] --> 91 Points
+T=13372: Bee #4 completed Hive #391 with ['F', 391, 901, 1] --> 91 Points
+T=13381: Bee #8 completed Hive #344 with ['F', 344, 597, 1] --> 91 Points
+T=13461: Bee #18 completed Hive #789 with ['F', 789, 537, 1] --> 91 Points
+T=13517: Bee #11 completed Hive #114 with ['F', 114, 789, 1] --> 91 Points
+T=13591: Bee #8 completed Hive #424 with ['F', 424, 794, 1] --> 91 Points
+T=13602: Bee #4 completed Hive #649 with ['F', 649, 132, 1] --> 91 Points
+T=13631: Bee #11 completed Hive #555 with ['F', 555, 985, 1] --> 91 Points
+T=13685: Bee #12 completed Hive #539 with ['F', 539, 142, 1] --> 91 Points
+T=13749: Bee #18 completed Hive #291 with ['F', 291, 274, 1] --> 91 Points
+T=13765: Bee #2 completed Hive #588 with ['F', 588, 803, 1] --> 91 Points
+T=13866: Bee #15 completed Hive #280 with ['F', 280, 218, 1] --> 91 Points
+T=13997: Bee #11 completed Hive #705 with ['F', 705, 373, 1] --> 91 Points
+T=13998: Bee #4 completed Hive #518 with ['F', 518, 72, 1] --> 91 Points
+T=14093: Bee #18 completed Hive #418 with ['F', 418, 100, 1] --> 91 Points
+T=14133: Bee #8 completed Hive #324 with ['F', 324, 660, 1] --> 91 Points
+T=14268: Bee #13 completed Hive #369 with ['F', 369, 394, 1] --> 91 Points
+T=14273: Bee #11 completed Hive #707 with ['F', 707, 334, 1] --> 91 Points
+T=14298: Bee #4 completed Hive #39 with ['F', 39, 907, 1] --> 91 Points
+T=14431: Bee #8 completed Hive #628 with ['F', 628, 15, 1] --> 91 Points
+T=14477: Bee #18 completed Hive #120 with ['F', 120, 743, 1] --> 91 Points
+T=14575: Bee #11 completed Hive #250 with ['F', 250, 927, 1] --> 90 Points
+T=14576: Bee #15 completed Hive #230 with ['F', 230, 360, 1] --> 90 Points
+T=14648: Bee #4 completed Hive #492 with ['F', 492, 97, 1] --> 90 Points
+T=14789: Bee #8 completed Hive #158 with ['F', 158, 523, 1] --> 90 Points
+T=14931: Bee #11 completed Hive #180 with ['F', 180, 992, 1] --> 90 Points
+T=14947: Bee #18 completed Hive #380 with ['F', 380, 551, 1] --> 90 Points
+T=14985: Bee #2 completed Hive #516 with ['F', 516, 448, 1] --> 90 Points
+T=15003: Bee #18 completed Hive #71 with ['F', 71, 534, 1] --> 90 Points
+T=15004: Bee #15 completed Hive #278 with ['F', 278, 737, 1] --> 90 Points
+T=15030: Bee #4 completed Hive #442 with ['F', 442, 660, 1] --> 90 Points
+T=15061: Bee #2 completed Hive #534 with ['F', 534, 217, 1] --> 90 Points
+T=15123: Bee #15 completed Hive #750 with ['F', 750, 153, 1] --> 90 Points
+T=15145: Bee #18 completed Hive #507 with ['F', 507, 726, 1] --> 90 Points
+T=15173: Bee #8 completed Hive #701 with ['F', 701, 404, 1] --> 90 Points
+T=15212: Bee #12 completed Hive #450 with ['F', 450, 350, 1] --> 90 Points
+T=15297: Bee #7 completed Hive #163 with ['F', 163, 60, 1] --> 90 Points
+T=15304: Bee #12 completed Hive #152 with ['F', 152, 149, 1] --> 90 Points
+T=15317: Bee #18 completed Hive #485 with ['F', 485, 971, 1] --> 90 Points
+T=15333: Bee #11 completed Hive #30 with ['F', 30, 446, 1] --> 90 Points
+T=15371: Bee #11 completed Hive #591 with ['F', 591, 348, 1] --> 90 Points
+T=15445: Bee #12 completed Hive #583 with ['F', 583, 438, 1] --> 90 Points
+T=15483: Bee #11 completed Hive #790 with ['F', 790, 199, 1] --> 90 Points
+T=15509: Bee #18 completed Hive #104 with ['F', 104, 646, 1] --> 90 Points
+T=15543: Bee #7 completed Hive #723 with ['F', 723, 985, 1] --> 90 Points
+T=15573: Bee #4 completed Hive #37 with ['F', 37, 45, 1] --> 90 Points
+T=15577: Bee #2 completed Hive #738 with ['F', 738, 73, 1] --> 90 Points
+T=15619: Bee #12 completed Hive #84 with ['F', 84, 976, 1] --> 90 Points
+T=15627: Bee #11 completed Hive #386 with ['F', 386, 99, 1] --> 90 Points
+T=15723: Bee #7 completed Hive #269 with ['F', 269, 350, 1] --> 90 Points
+T=15744: Bee #15 completed Hive #468 with ['F', 468, 333, 1] --> 90 Points
+T=15762: Bee #4 completed Hive #688 with ['F', 688, 453, 1] --> 90 Points
+T=15787: Bee #2 completed Hive #101 with ['F', 101, 107, 1] --> 90 Points
+T=15817: Bee #11 completed Hive #384 with ['F', 384, 64, 1] --> 90 Points
+T=15871: Bee #8 completed Hive #290 with ['F', 290, 750, 1] --> 90 Points
+T=15926: Bee #11 completed Hive #608 with ['F', 608, 317, 1] --> 90 Points
+T=15942: Bee #4 completed Hive #178 with ['F', 178, 113, 1] --> 90 Points
+T=15944: Bee #19 completed Hive #629 with ['F', 629, 942, 1] --> 90 Points
+T=15964: Bee #15 completed Hive #225 with ['F', 225, 546, 1] --> 89 Points
+T=16015: Bee #2 completed Hive #762 with ['F', 762, 899, 1] --> 89 Points
+T=16047: Bee #4 completed Hive #10 with ['F', 10, 787, 1] --> 89 Points
+T=16147: Bee #7 completed Hive #307 with ['F', 307, 793, 1] --> 89 Points
+T=16214: Bee #19 completed Hive #650 with ['F', 650, 841, 1] --> 89 Points
+T=16232: Bee #15 completed Hive #99 with ['F', 99, 813, 1] --> 89 Points
+T=16247: Bee #11 completed Hive #573 with ['F', 573, 238, 1] --> 89 Points
+T=16287: Bee #2 completed Hive #569 with ['F', 569, 643, 1] --> 89 Points
+T=16362: Bee #4 completed Hive #475 with ['F', 475, 311, 1] --> 89 Points
+T=16482: Bee #4 completed Hive #690 with ['F', 690, 750, 1] --> 89 Points
+T=16505: Bee #11 completed Hive #672 with ['F', 672, 806, 1] --> 89 Points
+T=16552: Bee #19 completed Hive #62 with ['F', 62, 982, 1] --> 89 Points
+T=16657: Bee #8 completed Hive #260 with ['F', 260, 907, 1] --> 89 Points
+T=16671: Bee #11 completed Hive #283 with ['F', 283, 594, 1] --> 89 Points
+T=16740: Bee #4 completed Hive #423 with ['F', 423, 252, 1] --> 89 Points
+T=17018: Bee #15 completed Hive #135 with ['F', 135, 269, 1] --> 89 Points
+T=17035: Bee #7 completed Hive #574 with ['F', 574, 635, 1] --> 89 Points
+T=17058: Bee #15 completed Hive #339 with ['F', 339, 435, 1] --> 89 Points
+T=17111: Bee #2 completed Hive #125 with ['F', 125, 256, 1] --> 89 Points
+T=17116: Bee #19 completed Hive #157 with ['F', 157, 929, 1] --> 89 Points
+T=17178: Bee #15 completed Hive #412 with ['F', 412, 715, 1] --> 89 Points
+T=17193: Bee #11 completed Hive #325 with ['F', 325, 38, 1] --> 89 Points
+T=17220: Bee #4 completed Hive #195 with ['F', 195, 691, 1] --> 89 Points
+T=17221: Bee #2 completed Hive #728 with ['F', 728, 216, 1] --> 89 Points
+T=17250: Bee #19 completed Hive #715 with ['F', 715, 326, 1] --> 89 Points
+T=17381: Bee #2 completed Hive #554 with ['F', 554, 730, 1] --> 89 Points
+T=17441: Bee #18 completed Hive #435 with ['F', 435, 822, 1] --> 88 Points
+T=17486: Bee #19 completed Hive #401 with ['F', 401, 841, 1] --> 88 Points
+T=17736: Bee #4 completed Hive #18 with ['F', 18, 193, 1] --> 88 Points
+T=17737: Bee #11 completed Hive #221 with ['F', 221, 99, 1] --> 88 Points
+T=17742: Bee #19 completed Hive #463 with ['F', 463, 49, 1] --> 88 Points
+T=17772: Bee #8 completed Hive #623 with ['F', 623, 126, 1] --> 88 Points
+T=17796: Bee #4 completed Hive #284 with ['F', 284, 538, 1] --> 88 Points
+T=17855: Bee #11 completed Hive #382 with ['F', 382, 382, 1] --> 88 Points
+T=17941: Bee #4 completed Hive #719 with ['F', 719, 707, 1] --> 88 Points
+T=17964: Bee #15 completed Hive #236 with ['F', 236, 732, 1] --> 88 Points
+T=17967: Bee #11 completed Hive #208 with ['F', 208, 967, 1] --> 88 Points
+T=18076: Bee #19 completed Hive #69 with ['F', 69, 722, 1] --> 88 Points
+T=18099: Bee #8 completed Hive #235 with ['F', 235, 419, 1] --> 88 Points
+T=18262: Bee #4 completed Hive #792 with ['F', 792, 419, 1] --> 88 Points
+T=18300: Bee #15 completed Hive #726 with ['F', 726, 722, 1] --> 88 Points
+T=18313: Bee #11 completed Hive #761 with ['F', 761, 121, 1] --> 88 Points
+T=18403: Bee #8 completed Hive #177 with ['F', 177, 99, 1] --> 88 Points
+T=18512: Bee #19 completed Hive #698 with ['F', 698, 834, 1] --> 88 Points
+T=18540: Bee #4 completed Hive #116 with ['F', 116, 85, 1] --> 88 Points
+T=18565: Bee #2 completed Hive #252 with ['F', 252, 890, 1] --> 88 Points
+T=18625: Bee #11 completed Hive #431 with ['F', 431, 233, 1] --> 88 Points
+T=18661: Bee #0 completed Hive #585 with ['F', 585, 739, 1] --> 88 Points
+T=18671: Bee #2 completed Hive #457 with ['F', 457, 823, 1] --> 88 Points
+T=18735: Bee #8 completed Hive #467 with ['F', 467, 572, 1] --> 88 Points
+T=18750: Bee #15 completed Hive #203 with ['F', 203, 975, 1] --> 88 Points
+T=18806: Bee #19 completed Hive #661 with ['F', 661, 268, 1] --> 88 Points
+T=18868: Bee #15 completed Hive #333 with ['F', 333, 312, 1] --> 87 Points
+T=18870: Bee #4 completed Hive #522 with ['F', 522, 935, 1] --> 87 Points
+T=18959: Bee #11 completed Hive #433 with ['F', 433, 369, 1] --> 87 Points
+T=19223: Bee #2 completed Hive #648 with ['F', 648, 493, 1] --> 87 Points
+T=19242: Bee #15 completed Hive #592 with ['F', 592, 586, 1] --> 87 Points
+T=19268: Bee #4 completed Hive #248 with ['F', 248, 45, 1] --> 87 Points
+T=19323: Bee #4 completed Hive #757 with ['F', 757, 189, 1] --> 87 Points
+T=19379: Bee #11 completed Hive #460 with ['F', 460, 872, 1] --> 87 Points
+T=19419: Bee #8 completed Hive #684 with ['F', 684, 748, 1] --> 87 Points
+T=19473: Bee #2 completed Hive #744 with ['F', 744, 176, 1] --> 87 Points
+T=19495: Bee #11 completed Hive #630 with ['F', 630, 37, 1] --> 87 Points
+T=19496: Bee #15 completed Hive #275 with ['F', 275, 757, 1] --> 87 Points
+T=19522: Bee #4 completed Hive #645 with ['F', 645, 211, 1] --> 87 Points
+T=19564: Bee #19 completed Hive #315 with ['F', 315, 183, 1] --> 87 Points
+T=19583: Bee #11 completed Hive #82 with ['F', 82, 114, 1] --> 87 Points
+T=19621: Bee #8 completed Hive #14 with ['F', 14, 292, 1] --> 87 Points
+T=19712: Bee #4 completed Hive #725 with ['F', 725, 973, 1] --> 87 Points
+T=19770: Bee #15 completed Hive #517 with ['F', 517, 705, 1] --> 87 Points
+T=19873: Bee #11 completed Hive #60 with ['F', 60, 872, 1] --> 87 Points
+T=19894: Bee #19 completed Hive #675 with ['F', 675, 545, 1] --> 87 Points
+T=19926: Bee #4 completed Hive #398 with ['F', 398, 750, 1] --> 87 Points
+T=20088: Bee #15 completed Hive #296 with ['F', 296, 961, 1] --> 87 Points
+T=20125: Bee #11 completed Hive #171 with ['F', 171, 31, 1] --> 87 Points
+T=20184: Bee #4 completed Hive #111 with ['F', 111, 837, 1] --> 87 Points
+T=20270: Bee #15 completed Hive #529 with ['F', 529, 488, 1] --> 87 Points
+T=20385: Bee #11 completed Hive #658 with ['F', 658, 652, 1] --> 86 Points
+T=20479: Bee #2 completed Hive #673 with ['F', 673, 975, 1] --> 86 Points
+T=20492: Bee #4 completed Hive #65 with ['F', 65, 473, 1] --> 86 Points
+T=20695: Bee #11 completed Hive #702 with ['F', 702, 242, 1] --> 86 Points
+T=20757: Bee #8 completed Hive #486 with ['F', 486, 347, 1] --> 86 Points
+T=20832: Bee #4 completed Hive #786 with ['F', 786, 238, 1] --> 86 Points
+T=20862: Bee #15 completed Hive #394 with ['F', 394, 219, 1] --> 86 Points
+T=20899: Bee #2 completed Hive #127 with ['F', 127, 499, 1] --> 86 Points
+T=21047: Bee #11 completed Hive #632 with ['F', 632, 613, 1] --> 86 Points
+T=21127: Bee #8 completed Hive #709 with ['F', 709, 474, 1] --> 86 Points
+T=21328: Bee #15 completed Hive #241 with ['F', 241, 240, 1] --> 86 Points
+T=21377: Bee #2 completed Hive #240 with ['F', 240, 27, 1] --> 86 Points
+T=21432: Bee #15 completed Hive #670 with ['F', 670, 105, 1] --> 86 Points
+T=21449: Bee #11 completed Hive #55 with ['F', 55, 988, 1] --> 86 Points
+T=21499: Bee #2 completed Hive #520 with ['F', 520, 777, 1] --> 86 Points
+T=21610: Bee #15 completed Hive #527 with ['F', 527, 790, 1] --> 86 Points
+T=21644: Bee #4 completed Hive #57 with ['F', 57, 777, 1] --> 86 Points
+T=21664: Bee #0 completed Hive #748 with ['F', 748, 151, 1] --> 86 Points
+T=21671: Bee #2 completed Hive #763 with ['F', 763, 474, 1] --> 86 Points
+T=21688: Bee #4 completed Hive #40 with ['F', 40, 962, 1] --> 86 Points
+T=21796: Bee #15 completed Hive #385 with ['F', 385, 931, 1] --> 85 Points
+T=21804: Bee #4 completed Hive #617 with ['F', 617, 130, 1] --> 85 Points
+T=21875: Bee #0 completed Hive #565 with ['F', 565, 765, 1] --> 85 Points
+T=21887: Bee #11 completed Hive #22 with ['F', 22, 116, 1] --> 85 Points
+T=21969: Bee #11 completed Hive #778 with ['F', 778, 927, 1] --> 85 Points
+T=22058: Bee #4 completed Hive #193 with ['F', 193, 201, 1] --> 85 Points
+T=22119: Bee #8 completed Hive #202 with ['F', 202, 931, 1] --> 85 Points
+T=22137: Bee #11 completed Hive #130 with ['F', 130, 712, 1] --> 85 Points
+T=22158: Bee #19 completed Hive #28 with ['F', 28, 239, 1] --> 85 Points
+T=22256: Bee #4 completed Hive #219 with ['F', 219, 73, 1] --> 85 Points
+T=22315: Bee #11 completed Hive #584 with ['F', 584, 396, 1] --> 85 Points
+T=22407: Bee #8 completed Hive #142 with ['F', 142, 299, 1] --> 85 Points
+T=22429: Bee #11 completed Hive #605 with ['F', 605, 658, 1] --> 85 Points
+T=22494: Bee #19 completed Hive #753 with ['F', 753, 552, 1] --> 85 Points
+T=22504: Bee #4 completed Hive #373 with ['F', 373, 332, 1] --> 85 Points
+T=22642: Bee #15 completed Hive #551 with ['F', 551, 621, 1] --> 85 Points
+T=22690: Bee #11 completed Hive #409 with ['F', 409, 434, 1] --> 85 Points
+T=22724: Bee #15 completed Hive #513 with ['F', 513, 278, 1] --> 85 Points
+T=22814: Bee #4 completed Hive #501 with ['F', 501, 722, 1] --> 85 Points
+T=22836: Bee #15 completed Hive #413 with ['F', 413, 15, 1] --> 85 Points
+T=22879: Bee #2 completed Hive #506 with ['F', 506, 367, 1] --> 85 Points
+T=22914: Bee #0 completed Hive #770 with ['F', 770, 481, 1] --> 85 Points
+T=23082: Bee #0 completed Hive #745 with ['F', 745, 887, 1] --> 85 Points
+T=23156: Bee #4 completed Hive #75 with ['F', 75, 420, 1] --> 85 Points
+T=23159: Bee #8 completed Hive #657 with ['F', 657, 819, 1] --> 85 Points
+T=23165: Bee #11 completed Hive #669 with ['F', 669, 802, 1] --> 85 Points
+T=23267: Bee #8 completed Hive #217 with ['F', 217, 840, 1] --> 84 Points
+T=23380: Bee #4 completed Hive #343 with ['F', 343, 941, 1] --> 84 Points
+T=23393: Bee #8 completed Hive #798 with ['F', 798, 862, 1] --> 84 Points
+T=23560: Bee #4 completed Hive #154 with ['F', 154, 832, 1] --> 84 Points
+T=23591: Bee #8 completed Hive #165 with ['F', 165, 47, 1] --> 84 Points
+T=23605: Bee #2 completed Hive #287 with ['F', 287, 780, 1] --> 84 Points
+T=23610: Bee #15 completed Hive #98 with ['F', 98, 352, 1] --> 84 Points
+T=23631: Bee #12 completed Hive #443 with ['F', 443, 88, 1] --> 84 Points
+T=23768: Bee #4 completed Hive #246 with ['F', 246, 97, 1] --> 84 Points
+T=23777: Bee #11 completed Hive #558 with ['F', 558, 967, 1] --> 84 Points
+T=23804: Bee #19 completed Hive #502 with ['F', 502, 414, 1] --> 84 Points
+T=23845: Bee #2 completed Hive #614 with ['F', 614, 651, 1] --> 84 Points
+T=23886: Bee #15 completed Hive #686 with ['F', 686, 877, 1] --> 84 Points
+T=23889: Bee #11 completed Hive #494 with ['F', 494, 384, 1] --> 84 Points
+T=23958: Bee #11 completed Hive #784 with ['F', 784, 741, 1] --> 84 Points
+T=24025: Bee #8 completed Hive #595 with ['F', 595, 952, 1] --> 84 Points
+T=24122: Bee #19 completed Hive #769 with ['F', 769, 816, 1] --> 84 Points
+T=24123: Bee #11 completed Hive #498 with ['F', 498, 938, 1] --> 84 Points
+T=24246: Bee #4 completed Hive #378 with ['F', 378, 512, 1] --> 84 Points
+T=24400: Bee #12 completed Hive #484 with ['F', 484, 513, 1] --> 84 Points
+T=24427: Bee #11 completed Hive #340 with ['F', 340, 26, 1] --> 84 Points
+T=24474: Bee #19 completed Hive #132 with ['F', 132, 950, 1] --> 84 Points
+T=24542: Bee #4 completed Hive #358 with ['F', 358, 396, 1] --> 84 Points
+T=24548: Bee #15 completed Hive #58 with ['F', 58, 446, 1] --> 84 Points
+T=24653: Bee #11 completed Hive #734 with ['F', 734, 749, 1] --> 83 Points
+T=24864: Bee #4 completed Hive #26 with ['F', 26, 780, 1] --> 83 Points
+T=24890: Bee #19 completed Hive #372 with ['F', 372, 427, 1] --> 83 Points
+T=24925: Bee #11 completed Hive #776 with ['F', 776, 90, 1] --> 83 Points
+T=25181: Bee #0 completed Hive #150 with ['F', 150, 926, 1] --> 83 Points
+T=25236: Bee #4 completed Hive #368 with ['F', 368, 161, 1] --> 83 Points
+T=25237: Bee #11 completed Hive #567 with ['F', 567, 411, 1] --> 83 Points
+T=25405: Bee #8 completed Hive #36 with ['F', 36, 338, 1] --> 83 Points
+T=25453: Bee #12 completed Hive #689 with ['F', 689, 415, 1] --> 83 Points
+T=25522: Bee #0 completed Hive #616 with ['F', 616, 161, 1] --> 83 Points
+T=25561: Bee #11 completed Hive #760 with ['F', 760, 840, 1] --> 83 Points
+T=25632: Bee #15 completed Hive #521 with ['F', 521, 623, 1] --> 83 Points
+T=25681: Bee #2 completed Hive #364 with ['F', 364, 120, 1] --> 83 Points
+T=25742: Bee #4 completed Hive #353 with ['F', 353, 461, 1] --> 83 Points
+T=25886: Bee #4 completed Hive #660 with ['F', 660, 962, 1] --> 83 Points
+T=25957: Bee #11 completed Hive #354 with ['F', 354, 100, 1] --> 83 Points
+T=25983: Bee #4 completed Hive #404 with ['F', 404, 892, 1] --> 83 Points
+T=26004: Bee #11 completed Hive #160 with ['F', 160, 365, 1] --> 83 Points
+T=26197: Bee #8 completed Hive #481 with ['F', 481, 788, 1] --> 82 Points
+T=26201: Bee #11 completed Hive #727 with ['F', 727, 411, 1] --> 82 Points
+T=26243: Bee #0 completed Hive #295 with ['F', 295, 435, 1] --> 82 Points
+T=26266: Bee #4 completed Hive #181 with ['F', 181, 992, 1] --> 82 Points
+T=26331: Bee #2 completed Hive #214 with ['F', 214, 727, 1] --> 82 Points
+T=26387: Bee #11 completed Hive #598 with ['F', 598, 890, 1] --> 82 Points
+T=26476: Bee #4 completed Hive #15 with ['F', 15, 286, 1] --> 82 Points
+T=26478: Bee #19 completed Hive #604 with ['F', 604, 914, 1] --> 82 Points
+T=26591: Bee #11 completed Hive #35 with ['F', 35, 326, 1] --> 82 Points
+T=26605: Bee #4 completed Hive #286 with ['F', 286, 483, 1] --> 82 Points
+T=26711: Bee #11 completed Hive #478 with ['F', 478, 976, 1] --> 82 Points
+T=26898: Bee #0 completed Hive #685 with ['F', 685, 755, 1] --> 82 Points
+T=26930: Bee #12 completed Hive #187 with ['F', 187, 623, 1] --> 82 Points
+T=27038: Bee #4 completed Hive #119 with ['F', 119, 336, 1] --> 82 Points
+T=27097: Bee #11 completed Hive #535 with ['F', 535, 302, 1] --> 82 Points
+T=27257: Bee #0 completed Hive #2 with ['F', 2, 57, 1] --> 82 Points
+T=27360: Bee #4 completed Hive #651 with ['F', 651, 360, 1] --> 82 Points
+T=27411: Bee #11 completed Hive #43 with ['F', 43, 225, 1] --> 82 Points
+T=27511: Bee #12 completed Hive #303 with ['F', 303, 726, 1] --> 82 Points
+T=27710: Bee #4 completed Hive #227 with ['F', 227, 998, 1] --> 81 Points
+T=27713: Bee #0 completed Hive #335 with ['F', 335, 427, 1] --> 81 Points
+T=27739: Bee #11 completed Hive #381 with ['F', 381, 99, 1] --> 81 Points
+T=27910: Bee #12 completed Hive #754 with ['F', 754, 992, 1] --> 81 Points
+T=27917: Bee #2 completed Hive #566 with ['F', 566, 337, 1] --> 81 Points
+T=27921: Bee #11 completed Hive #81 with ['F', 81, 687, 1] --> 81 Points
+T=28160: Bee #4 completed Hive #329 with ['F', 329, 293, 1] --> 81 Points
+T=28239: Bee #4 completed Hive #781 with ['F', 781, 261, 2] --> 81 Points
+T=28469: Bee #8 completed Hive #23 with ['F', 23, 724, 1] --> 81 Points
+T=28542: Bee #4 completed Hive #663 with ['F', 663, 756, 1] --> 81 Points
+T=28551: Bee #11 completed Hive #405 with ['F', 405, 210, 1] --> 81 Points
+T=28659: Bee #8 completed Hive #272 with ['F', 272, 344, 1] --> 81 Points
+T=28660: Bee #11 completed Hive #546 with ['F', 546, 558, 1] --> 81 Points
+T=28877: Bee #2 completed Hive #570 with ['F', 570, 853, 1] --> 81 Points
+T=28882: Bee #4 completed Hive #771 with ['F', 771, 698, 1] --> 81 Points
+T=29015: Bee #11 completed Hive #103 with ['F', 103, 967, 1] --> 80 Points
+T=29062: Bee #4 completed Hive #548 with ['F', 548, 468, 1] --> 80 Points
+T=29113: Bee #11 completed Hive #678 with ['F', 678, 299, 1] --> 80 Points
+T=29173: Bee #2 completed Hive #56 with ['F', 56, 499, 1] --> 80 Points
+T=29181: Bee #12 completed Hive #146 with ['F', 146, 230, 1] --> 80 Points
+T=29205: Bee #4 completed Hive #186 with ['F', 186, 813, 1] --> 80 Points
+T=29304: Bee #11 completed Hive #317 with ['F', 317, 35, 1] --> 80 Points
+T=29419: Bee #12 completed Hive #425 with ['F', 425, 992, 1] --> 80 Points
+T=29646: Bee #4 completed Hive #445 with ['F', 445, 466, 1] --> 80 Points
+T=29689: Bee #11 completed Hive #48 with ['F', 48, 349, 1] --> 80 Points
+T=29945: Bee #4 completed Hive #437 with ['F', 437, 650, 1] --> 80 Points
+T=29991: Bee #11 completed Hive #151 with ['F', 151, 353, 1] --> 80 Points
+T=30083: Bee #2 completed Hive #615 with ['F', 615, 855, 1] --> 80 Points
+T=30111: Bee #12 completed Hive #277 with ['F', 277, 869, 1] --> 80 Points
+T=30191: Bee #4 completed Hive #453 with ['F', 453, 664, 1] --> 80 Points
+T=30318: Bee #4 completed Hive #626 with ['F', 626, 358, 1] --> 80 Points
+T=30324: Bee #11 completed Hive #347 with ['F', 347, 361, 1] --> 80 Points
+T=30355: Bee #2 completed Hive #611 with ['F', 611, 721, 1] --> 80 Points
+T=30431: Bee #11 completed Hive #9 with ['F', 9, 486, 1] --> 80 Points
+T=30569: Bee #11 completed Hive #243 with ['F', 243, 645, 1] --> 79 Points
+T=30594: Bee #4 completed Hive #122 with ['F', 122, 958, 1] --> 79 Points
+T=30863: Bee #8 completed Hive #538 with ['F', 538, 865, 1] --> 79 Points
+T=30979: Bee #2 completed Hive #145 with ['F', 145, 157, 1] --> 79 Points
+T=31009: Bee #11 completed Hive #141 with ['F', 141, 979, 1] --> 79 Points
+T=31035: Bee #0 completed Hive #714 with ['F', 714, 757, 1] --> 79 Points
+T=31113: Bee #11 completed Hive #679 with ['F', 679, 195, 1] --> 79 Points
+T=31192: Bee #4 completed Hive #572 with ['F', 572, 449, 1] --> 79 Points
+T=31231: Bee #11 completed Hive #349 with ['F', 349, 63, 1] --> 79 Points
+T=31420: Bee #4 completed Hive #361 with ['F', 361, 41, 1] --> 79 Points
+T=31577: Bee #11 completed Hive #293 with ['F', 293, 2, 1] --> 79 Points
+T=31714: Bee #4 completed Hive #257 with ['F', 257, 688, 1] --> 79 Points
+
+
+
+########### INCOMPLETE HIVES  ##########
+
+
+
+########### COMPLETED HIVES    ##########
+Hive #0: [785, 0] [121, 0] [634, 0] [805, 0] [38, 0]
+Hive #1: [794, 0] [218, 0] [247, 0] [500, 0] [963, 0] [782, 0]
+Hive #2: [577, 0] [385, 0] [835, 0] [115, 0] [491, 0] [946, 0] [920, 0] [702, 0] [803, 0] [738, 0] [57, 0] [955, 0] [538, 0] [252, 0] [181, 0]
+Hive #3: [642, 0] [961, 0]
+Hive #4: [736, 0] [862, 0] [349, 0] [825, 0]
+Hive #5: [981, 0] [876, 0] [688, 0] [8, 0] [597, 0] [476, 0]
+Hive #6: [373, 0] [85, 0] [142, 0] [303, 0] [52, 0] [458, 0] [851, 0] [607, 0]
+Hive #7: [597, 0] [336, 0] [51, 0] [72, 0] [573, 0] [616, 0] [297, 0] [739, 0]
+Hive #8: [491, 0] [401, 0] [858, 0] [987, 0]
+Hive #9: [242, 0] [119, 0] [756, 0] [237, 0] [129, 0] [427, 0] [941, 0] [501, 0] [787, 0] [970, 0] [522, 0] [864, 0] [822, 0] [538, 0] [486, 0] [138, 0]
+Hive #10: [869, 0] [404, 0] [787, 0] [758, 0] [286, 0] [572, 0] [617, 0] [564, 0] [589, 0]
+Hive #11: [982, 0] [653, 0] [133, 0] [856, 0]
+Hive #12: [502, 0] [532, 0] [431, 0]
+Hive #13: [788, 0] [372, 0] [28, 0] [275, 0] [68, 0] [663, 0]
+Hive #14: [468, 0] [388, 0] [107, 0] [584, 0] [688, 0] [283, 0] [846, 0] [897, 0] [988, 0] [292, 0] [827, 0] [655, 0]
+Hive #15: [159, 0] [78, 0] [985, 0] [723, 0] [764, 0] [937, 0] [14, 0] [646, 0] [790, 0] [413, 0] [786, 0] [906, 0] [926, 0] [286, 0] [50, 0]
+Hive #16: [266, 0] [931, 0]
+Hive #17: [163, 0] [362, 0]
+Hive #18: [922, 0] [600, 0] [221, 0] [947, 0] [119, 0] [193, 0] [367, 0] [772, 0] [127, 0] [229, 0]
+Hive #19: [259, 0] [964, 0] [623, 0] [83, 0] [47, 0] [414, 0]
+Hive #20: [48, 0]
+Hive #21: [66, 0] [107, 0] [780, 0] [779, 0]
+Hive #22: [883, 0] [144, 0] [17, 0] [481, 0] [537, 0] [164, 0] [573, 0] [322, 0] [30, 0] [116, 0] [439, 0] [615, 0]
+Hive #23: [652, 0] [426, 0] [915, 0] [459, 0] [961, 0] [440, 0] [489, 0] [778, 0] [414, 0] [221, 0] [474, 0] [438, 0] [724, 0] [775, 0] [788, 0] [614, 0] [855, 0]
+Hive #24: [899, 0] [971, 0] [961, 0] [52, 0] [688, 0]
+Hive #25: [872, 0] [616, 0] [111, 0] [360, 0] [937, 0]
+Hive #26: [680, 0] [679, 0] [879, 0] [950, 0] [14, 0] [583, 0] [563, 0] [501, 0] [780, 0] [346, 0] [302, 0] [367, 0] [651, 0]
+Hive #27: [104, 0] [598, 0] [406, 0] [616, 0] [199, 0]
+Hive #28: [345, 0] [740, 0] [727, 0] [975, 0] [963, 0] [929, 0] [139, 0] [595, 0] [495, 0] [239, 0] [964, 0] [802, 0] [549, 0]
+Hive #29: [210, 0] [55, 0] [223, 0] [30, 0] [105, 0] [863, 0] [787, 0]
+Hive #30: [733, 0] [927, 0] [840, 0] [142, 0] [929, 0] [446, 0] [614, 0] [827, 0] [600, 0]
+Hive #31: [930, 0] [687, 0] [880, 0] [85, 0] [891, 0] [879, 0]
+Hive #32: [836, 0] [774, 0] [237, 0] [314, 0] [693, 0]
+Hive #33: [862, 0] [422, 0] [553, 0] [490, 0] [719, 0] [305, 0] [562, 0] [927, 0] [854, 0]
+Hive #34: [787, 0] [89, 0] [438, 0] [509, 0] [893, 0]
+Hive #35: [780, 0] [965, 0] [845, 0] [753, 0] [787, 0] [970, 0] [455, 0] [525, 0] [411, 0] [587, 0] [326, 0] [338, 0] [622, 0] [925, 0] [75, 0]
+Hive #36: [384, 0] [736, 0] [741, 0] [484, 0] [609, 0] [30, 0] [51, 0] [104, 0] [536, 0] [600, 0] [648, 0] [338, 0] [139, 0] [427, 0]
+Hive #37: [319, 0] [995, 0] [48, 0] [935, 0] [45, 0] [967, 0] [486, 0] [684, 0] [262, 0] [758, 0]
+Hive #38: [49, 0] [326, 0]
+Hive #39: [221, 0] [365, 0] [411, 0] [476, 0] [512, 0] [77, 0] [907, 0] [129, 0]
+Hive #40: [183, 0] [795, 0] [86, 0] [824, 0] [684, 0] [130, 0] [445, 0] [772, 0] [215, 0] [512, 0] [388, 0] [305, 0] [962, 0]
+Hive #41: [426, 0] [97, 0] [175, 0] [613, 0] [388, 0]
+Hive #42: [979, 0] [809, 0] [561, 0] [741, 0]
+Hive #43: [277, 0] [188, 0] [802, 0] [355, 0] [79, 0] [789, 0] [964, 0] [943, 0] [583, 0] [786, 0] [41, 0] [694, 0] [225, 0] [195, 0]
+Hive #44: [403, 0] [398, 0] [405, 0] [474, 0] [109, 0] [935, 0] [835, 0] [41, 0]
+Hive #45: [387, 0] [312, 0] [371, 0] [97, 0] [674, 0] [198, 0] [121, 0]
+Hive #46: [857, 0] [441, 0] [773, 0]
+Hive #47: [66, 0] [315, 0] [270, 0] [220, 0] [693, 0]
+Hive #48: [970, 0] [802, 0] [893, 0] [850, 0] [290, 0] [992, 0] [349, 0] [202, 0] [673, 0] [537, 0] [758, 0] [845, 0] [286, 0] [237, 0] [468, 0] [810, 0] [218, 0]
+Hive #49: [277, 0] [455, 0] [185, 0] [823, 0] [891, 0] [189, 0] [808, 0] [520, 0] [691, 0]
+Hive #50: [350, 0] [749, 0] [242, 0] [345, 0]
+Hive #51: [950, 0] [32, 0] [475, 0] [919, 0] [403, 0] [400, 0]
+Hive #52: [855, 0] [539, 0] [931, 0]
+Hive #53: [323, 0] [139, 0]
+Hive #54: [840, 0] [162, 0] [430, 0] [178, 0] [10, 0] [879, 0] [268, 0]
+Hive #55: [956, 0] [559, 0] [513, 0] [925, 0] [970, 0] [798, 0] [964, 0] [774, 0] [362, 0] [988, 0] [835, 0] [80, 0]
+Hive #56: [182, 0] [138, 0] [81, 0] [350, 0] [110, 0] [978, 0] [189, 0] [552, 0] [402, 0] [160, 0] [600, 0] [726, 0] [267, 0] [953, 0] [435, 0] [499, 0] [994, 0]
+Hive #57: [221, 0] [388, 0] [501, 0] [312, 0] [159, 0] [893, 0] [161, 0] [777, 0] [114, 0] [708, 0] [846, 0] [10, 0]
+Hive #58: [57, 0] [203, 0] [174, 0] [406, 0] [468, 0] [845, 0] [547, 0] [501, 0] [471, 0] [741, 0] [446, 0] [242, 0] [1, 0] [802, 0]
+Hive #59: [262, 0] [513, 0] [238, 0] [328, 0]
+Hive #60: [512, 0] [405, 0] [419, 0] [911, 0] [872, 0] [510, 0] [832, 0] [486, 0] [71, 0] [8, 0] [301, 0] [603, 0]
+Hive #61: [522, 0] [52, 0] [276, 0] [105, 0]
+Hive #62: [809, 0] [191, 0] [308, 0] [756, 0] [260, 0] [283, 0] [786, 0] [573, 0] [982, 0] [646, 0]
+Hive #63: [267, 0] [509, 0] [85, 0] [107, 0] [840, 0]
+Hive #64: [964, 0] [93, 0] [350, 0] [659, 0]
+Hive #65: [228, 0] [963, 0] [437, 0] [749, 0] [301, 0] [473, 0] [704, 0] [589, 0] [158, 0] [511, 0] [307, 0] [756, 0]
+Hive #66: [336, 0] [786, 0] [414, 0] [391, 0]
+Hive #67: [644, 0] [228, 0] [614, 0] [76, 0] [35, 0] [110, 0]
+Hive #68: [658, 0] [989, 0] [877, 0] [876, 0] [936, 0] [401, 0]
+Hive #69: [836, 0] [694, 0] [58, 0] [644, 0] [885, 0] [950, 0] [392, 0] [722, 0] [444, 0] [112, 0] [73, 0]
+Hive #70: [371, 0] [560, 0] [424, 0] [251, 0] [971, 0] [239, 0]
+Hive #71: [468, 0] [455, 0] [465, 0] [789, 0] [520, 0] [511, 0] [534, 0] [791, 0] [160, 0]
+Hive #72: [456, 0] [484, 0] [110, 0] [160, 0] [297, 0] [452, 0] [764, 0]
+Hive #73: [350, 0]
+Hive #74: [967, 0] [996, 0] [614, 0]
+Hive #75: [299, 0] [63, 0] [392, 0] [782, 0] [861, 0] [709, 0] [663, 0] [83, 0] [420, 0] [251, 0] [737, 0] [953, 0] [190, 0]
+Hive #76: [816, 0] [474, 0] [122, 0] [537, 0] [450, 0] [511, 0] [127, 0]
+Hive #77: [862, 0] [852, 0] [526, 0] [391, 0] [402, 0] [21, 0] [233, 0] [241, 0]
+Hive #78: [615, 0] [210, 0] [10, 0] [835, 0] [479, 0] [637, 0] [477, 0] [684, 0]
+Hive #79: [939, 0] [624, 0] [481, 0] [270, 0] [692, 0] [509, 0] [286, 0]
+Hive #80: [388, 0] [247, 0]
+Hive #81: [186, 0] [955, 0] [883, 0] [167, 0] [320, 0] [601, 0] [551, 0] [950, 0] [793, 0] [919, 0] [750, 0] [687, 0] [37, 0] [99, 0] [697, 0]
+Hive #82: [292, 0] [886, 0] [827, 0] [422, 0] [184, 0] [114, 0] [104, 0] [589, 0] [591, 0] [658, 0] [99, 0] [220, 0]
+Hive #83: [779, 0] [175, 0] [737, 0] [609, 0] [785, 0] [660, 0]
+Hive #84: [613, 0] [503, 0] [224, 0] [976, 0] [777, 0] [851, 0] [914, 0] [415, 0] [337, 0] [806, 0]
+Hive #85: [277, 0] [780, 0] [362, 0] [367, 0] [372, 0]
+Hive #86: [848, 0] [121, 0] [548, 0] [216, 0] [448, 0]
+Hive #87: [192, 0] [160, 0] [239, 0] [694, 0] [517, 0]
+Hive #88: [890, 0] [607, 0] [699, 0] [66, 0] [919, 0] [228, 0] [224, 0] [299, 0]
+Hive #89: [327, 0] [362, 0] [883, 0] [787, 0] [691, 0] [911, 0] [162, 0] [819, 0]
+Hive #90: [565, 0] [528, 0] [60, 0]
+Hive #91: [483, 0] [441, 0] [615, 0] [182, 0] [162, 0] [581, 0] [963, 0]
+Hive #92: [794, 0] [185, 0] [843, 0]
+Hive #93: [995, 0] [742, 0] [341, 0] [296, 0] [185, 0] [593, 0] [480, 0]
+Hive #94: [716, 0] [886, 0] [713, 0] [960, 0]
+Hive #95: [940, 0] [347, 0] [525, 0] [57, 0] [680, 0] [415, 0] [638, 0] [114, 0]
+Hive #96: [153, 0] [835, 0] [795, 0] [591, 0]
+Hive #97: [287, 0] [279, 0] [41, 0] [480, 0]
+Hive #98: [486, 0] [384, 0] [99, 0] [736, 0] [222, 0] [786, 0] [918, 0] [267, 0] [788, 0] [352, 0] [675, 0] [26, 0] [612, 0] [304, 0]
+Hive #99: [132, 0] [138, 0] [254, 0] [644, 0] [297, 0] [334, 0] [690, 0] [14, 0] [911, 0] [813, 0]
+Hive #100: [599, 0] [106, 0] [144, 0] [185, 0] [794, 0]
+Hive #101: [756, 0] [537, 0] [183, 0] [896, 0] [687, 0] [396, 0] [857, 0] [401, 0] [107, 0] [81, 0]
+Hive #102: [205, 0] [707, 0] [749, 0] [192, 0] [779, 0] [150, 0]
+Hive #103: [801, 0] [384, 0] [891, 0] [721, 0] [441, 0] [920, 0] [481, 0] [220, 0] [591, 0] [488, 0] [543, 0] [880, 0] [787, 0] [66, 0] [967, 0]
+Hive #104: [989, 0] [79, 0] [465, 0] [373, 0] [238, 0] [779, 0] [646, 0] [693, 0] [967, 0]
+Hive #105: [172, 0] [465, 0] [81, 0] [782, 0] [113, 0] [513, 0] [214, 0] [610, 0]
+Hive #106: [973, 0] [937, 0] [86, 0] [808, 0] [607, 0]
+Hive #107: [822, 0] [693, 0] [767, 0] [650, 0]
+Hive #108: [526, 0] [54, 0] [168, 0] [164, 0] [808, 0] [837, 0] [158, 0]
+Hive #109: [877, 0] [788, 0] [919, 0] [899, 0] [672, 0] [124, 0]
+Hive #110: [734, 0] [112, 0] [189, 0]
+Hive #111: [260, 0] [426, 0] [12, 0] [837, 0] [487, 0] [309, 0] [480, 0] [363, 0] [237, 0] [424, 0] [657, 0] [38, 0]
+Hive #112: [733, 0] [935, 0] [166, 0] [314, 0] [304, 0] [818, 0] [994, 0]
+Hive #113: [478, 0] [898, 0] [187, 0] [829, 0] [495, 0]
+Hive #114: [554, 0] [802, 0] [405, 0] [907, 0] [611, 0] [282, 0] [377, 0] [965, 0] [789, 0]
+Hive #115: [46, 0] [296, 0] [477, 0] [618, 0] [641, 0] [132, 0] [854, 0]
+Hive #116: [338, 0] [688, 0] [302, 0] [198, 0] [163, 0] [786, 0] [691, 0] [179, 0] [66, 0] [628, 0] [85, 0]
+Hive #117: [167, 0] [247, 0] [837, 0] [917, 0] [43, 0] [308, 0] [802, 0] [297, 0]
+Hive #118: [229, 0] [205, 0] [618, 0] [222, 0] [853, 0] [872, 0]
+Hive #119: [883, 0] [751, 0] [810, 0] [572, 0] [543, 0] [693, 0] [921, 0] [414, 0] [314, 0] [439, 0] [111, 0] [336, 0] [375, 0] [971, 0] [947, 0]
+Hive #120: [598, 0] [706, 0] [743, 0] [57, 0] [577, 0] [627, 0] [794, 0] [958, 0] [979, 0]
+Hive #121: [840, 0] [35, 0] [918, 0]
+Hive #122: [107, 0] [688, 0] [958, 0] [802, 0] [477, 0] [651, 0] [787, 0] [230, 0] [106, 0] [852, 0] [437, 0] [882, 0] [961, 0] [467, 0] [719, 0] [182, 0] [810, 0] [18, 0]
+Hive #123: [270, 0] [130, 0] [440, 0] [68, 0] [650, 0] [794, 0] [671, 0] [163, 0]
+Hive #124: [404, 0]
+Hive #125: [130, 0] [998, 0] [388, 0] [475, 0] [593, 0] [856, 0] [442, 0] [278, 0] [197, 0] [256, 0]
+Hive #126: [455, 0] [263, 0] [242, 0] [722, 0] [427, 0]
+Hive #127: [927, 0] [41, 0] [26, 0] [225, 0] [994, 0] [220, 0] [453, 0] [998, 0] [252, 0] [765, 0] [492, 0] [499, 0]
+Hive #128: [129, 0] [997, 0]
+Hive #129: [127, 0] [277, 0] [573, 0]
+Hive #130: [362, 0] [382, 0] [348, 0] [550, 0] [601, 0] [471, 0] [104, 0] [160, 0] [712, 0] [788, 0] [181, 0] [309, 0] [109, 0]
+Hive #131: [839, 0] [626, 0] [281, 0] [943, 0]
+Hive #132: [920, 0] [398, 0] [382, 0] [945, 0] [742, 0] [796, 0] [949, 0] [969, 0] [779, 0] [743, 0] [950, 0] [726, 0] [737, 0] [483, 0]
+Hive #133: [799, 0] [92, 0] [445, 0] [397, 0]
+Hive #134: [372, 0] [486, 0]
+Hive #135: [508, 0] [182, 0] [737, 0] [204, 0] [269, 0] [769, 0] [406, 0] [32, 0] [735, 0] [396, 0]
+Hive #136: [58, 0] [359, 0] [68, 0]
+Hive #137: [884, 0] [994, 0]
+Hive #138: [600, 0] [504, 0] [772, 0] [426, 0] [914, 0] [545, 0] [786, 0]
+Hive #139: [575, 0] [466, 0]
+Hive #140: [576, 0] [382, 0] [676, 0] [688, 0] [388, 0] [912, 0] [326, 0] [626, 0] [74, 0]
+Hive #141: [831, 0] [567, 0] [512, 0] [922, 0] [222, 0] [979, 0] [26, 0] [719, 0] [346, 0] [369, 0] [439, 0] [889, 0] [75, 0] [713, 0] [992, 0] [809, 0] [90, 0] [613, 0]
+Hive #142: [247, 0] [235, 0] [641, 0] [196, 0] [125, 0] [590, 0] [779, 0] [429, 0] [605, 0] [622, 0] [299, 0] [750, 0] [793, 0]
+Hive #143: [825, 0] [920, 0] [161, 0] [397, 0] [930, 0] [824, 0]
+Hive #144: [617, 0] [593, 0] [725, 0] [227, 0] [355, 0] [74, 0] [879, 0]
+Hive #145: [338, 0] [278, 0] [30, 0] [286, 0] [163, 0] [789, 0] [431, 0] [896, 0] [881, 0] [795, 0] [454, 0] [18, 0] [157, 0] [105, 0] [412, 0] [370, 0] [647, 0] [463, 0]
+Hive #146: [859, 0] [801, 0] [815, 0] [755, 0] [303, 0] [230, 0] [64, 0] [543, 0] [900, 0] [71, 0] [741, 0] [750, 0] [160, 0] [480, 0] [636, 0] [532, 0] [511, 0]
+Hive #147: [877, 0] [636, 0] [688, 0] [564, 0] [233, 0] [438, 0] [900, 0] [920, 0]
+Hive #148: [31, 0] [943, 0] [94, 0] [324, 0] [632, 0] [629, 0]
+Hive #149: [432, 0] [158, 0]
+Hive #150: [845, 0] [97, 0] [999, 0] [345, 0] [721, 0] [86, 0] [840, 0] [319, 0] [456, 0] [772, 0] [781, 0] [746, 0] [751, 0] [694, 0] [926, 0]
+Hive #151: [275, 0] [199, 0] [335, 0] [182, 0] [353, 0] [132, 0] [367, 0] [593, 0] [755, 0] [707, 0] [538, 0] [963, 0] [624, 0] [607, 0] [973, 0] [783, 0]
+Hive #152: [63, 0] [67, 0] [277, 0] [645, 0] [375, 0] [929, 0] [149, 0] [689, 0] [954, 0] [764, 0]
+Hive #153: [105, 0] [773, 0] [653, 0] [875, 0] [302, 0] [66, 0]
+Hive #154: [598, 0] [401, 0] [577, 0] [19, 0] [404, 0] [875, 0] [915, 0] [644, 0] [262, 0] [477, 0] [832, 0] [159, 0] [181, 0] [926, 0]
+Hive #155: [167, 0] [344, 0] [926, 0]
+Hive #156: [657, 0] [275, 0]
+Hive #157: [918, 0] [169, 0] [358, 0] [383, 0] [275, 0] [623, 0] [948, 0] [416, 0] [181, 0] [759, 0] [929, 0]
+Hive #158: [460, 0] [759, 0] [174, 0] [679, 0] [109, 0] [659, 0] [223, 0] [728, 0] [523, 0]
+Hive #159: [484, 0] [88, 0] [894, 0] [896, 0] [320, 0]
+Hive #160: [424, 0] [702, 0] [608, 0] [584, 0] [430, 0] [365, 0] [113, 0] [563, 0] [411, 0] [178, 0] [946, 0] [615, 0] [50, 0] [35, 0] [522, 0]
+Hive #161: [14, 0] [743, 0] [974, 0] [721, 0] [990, 0] [565, 0] [314, 0]
+Hive #162: [482, 0] [492, 0] [468, 0] [794, 0]
+Hive #163: [528, 0] [598, 0] [90, 0] [773, 0] [335, 0] [122, 0] [549, 0] [51, 0] [60, 0]
+Hive #164: [321, 0] [701, 0] [653, 0] [823, 0] [644, 0]
+Hive #165: [553, 0] [557, 0] [745, 0] [406, 0] [372, 0] [964, 0] [621, 0] [35, 0] [180, 0] [770, 0] [659, 0] [47, 0] [505, 0] [856, 0]
+Hive #166: [937, 0] [339, 0] [610, 0] [621, 0] [362, 0] [301, 0]
+Hive #167: [754, 0] [367, 0] [150, 0] [355, 0] [675, 0] [805, 0]
+Hive #168: [334, 0] [52, 0]
+Hive #169: [332, 0] [814, 0] [551, 0] [684, 0] [76, 0] [921, 0]
+Hive #170: [22, 0] [583, 0] [991, 0] [392, 0]
+Hive #171: [650, 0] [219, 0] [997, 0] [278, 0] [787, 0] [107, 0] [580, 0] [31, 0] [712, 0] [276, 0] [919, 0] [849, 0]
+Hive #172: [659, 0]
+Hive #173: [764, 0] [135, 0] [123, 0]
+Hive #174: [453, 0] [624, 0] [85, 0] [64, 0] [63, 0]
+Hive #175: [558, 0]
+Hive #176: [705, 0] [525, 0] [639, 0] [16, 0]
+Hive #177: [769, 0] [748, 0] [864, 0] [25, 0] [327, 0] [87, 0] [417, 0] [78, 0] [937, 0] [235, 0] [99, 0]
+Hive #178: [243, 0] [688, 0] [401, 0] [801, 0] [12, 0] [414, 0] [257, 0] [27, 0] [216, 0] [113, 0]
+Hive #179: [62, 0] [929, 0] [992, 0] [292, 0] [956, 0] [914, 0] [816, 0] [783, 0] [467, 0]
+Hive #180: [345, 0] [238, 0] [283, 0] [163, 0] [622, 0] [765, 0] [992, 0] [829, 0] [731, 0]
+Hive #181: [889, 0] [733, 0] [883, 0] [861, 0] [979, 0] [28, 0] [638, 0] [882, 0] [428, 0] [26, 0] [206, 0] [324, 0] [992, 0] [295, 0] [747, 0]
+Hive #182: [793, 0] [910, 0] [262, 0] [419, 0] [70, 0]
+Hive #183: [352, 0] [948, 0] [643, 0] [719, 0] [219, 0] [456, 0]
+Hive #184: [433, 0] [247, 0] [983, 0]
+Hive #185: [890, 0] [159, 0]
+Hive #186: [289, 0] [788, 0] [988, 0] [154, 0] [813, 0] [414, 0] [467, 0] [809, 0] [434, 0] [182, 0] [237, 0] [377, 0] [967, 0] [115, 0] [98, 0] [32, 0] [14, 0]
+Hive #187: [639, 0] [889, 0] [175, 0] [14, 0] [783, 0] [735, 0] [528, 0] [568, 0] [391, 0] [287, 0] [410, 0] [914, 0] [623, 0] [883, 0] [259, 0]
+Hive #188: [811, 0] [953, 0]
+Hive #189: [556, 0] [555, 0] [632, 0] [900, 0] [698, 0] [548, 0] [593, 0]
+Hive #190: [819, 0] [883, 0]
+Hive #191: [862, 0]
+Hive #192: [501, 0] [36, 0]
+Hive #193: [350, 0] [499, 0] [305, 0] [297, 0] [201, 0] [691, 0] [52, 0] [803, 0] [247, 0] [169, 0] [625, 0] [617, 0] [862, 0]
+Hive #194: [554, 0] [228, 0]
+Hive #195: [709, 0] [734, 0] [805, 0] [525, 0] [261, 0] [563, 0] [959, 0] [691, 0] [252, 0] [205, 0]
+Hive #196: [456, 0] [195, 0] [964, 0] [569, 0] [598, 0] [624, 0] [314, 0]
+Hive #197: [995, 0] [51, 0] [452, 0] [622, 0]
+Hive #198: [41, 0] [789, 0] [354, 0] [855, 0] [238, 0] [164, 0]
+Hive #199: [569, 0] [43, 0] [789, 0] [777, 0]
+Hive #200: [907, 0] [284, 0]
+Hive #201: [285, 0] [224, 0] [496, 0] [391, 0]
+Hive #202: [227, 0] [365, 0] [97, 0] [203, 0] [183, 0] [735, 0] [775, 0] [135, 0] [432, 0] [931, 0] [463, 0] [903, 0]
+Hive #203: [96, 0] [534, 0] [794, 0] [819, 0] [54, 0] [772, 0] [603, 0] [104, 0] [255, 0] [356, 0] [975, 0]
+Hive #204: [283, 0] [355, 0] [586, 0] [221, 0] [664, 0] [299, 0] [717, 0] [298, 0]
+Hive #205: [431, 0] [52, 0] [335, 0]
+Hive #206: [560, 0] [965, 0] [694, 0] [698, 0] [547, 0] [105, 0] [947, 0] [62, 0]
+Hive #207: [154, 0] [529, 0] [302, 0] [121, 0] [116, 0] [347, 0] [478, 0]
+Hive #208: [726, 0] [32, 0] [493, 0] [446, 0] [769, 0] [111, 0] [834, 0] [691, 0] [967, 0] [243, 0] [390, 0]
+Hive #209: [28, 0] [237, 0] [239, 0] [162, 0] [883, 0]
+Hive #210: [413, 0] [221, 0] [427, 0] [543, 0]
+Hive #211: [86, 0] [587, 0] [141, 0]
+Hive #212: [220, 0] [513, 0] [787, 0] [982, 0] [129, 0] [920, 0]
+Hive #213: [769, 0] [439, 0]
+Hive #214: [467, 0] [100, 0] [719, 0] [248, 0] [565, 0] [242, 0] [728, 0] [369, 0] [936, 0] [979, 0] [660, 0] [627, 0] [727, 0] [168, 0] [253, 0]
+Hive #215: [753, 0] [66, 0] [127, 0] [726, 0] [239, 0] [528, 0] [31, 0] [811, 0]
+Hive #216: [452, 0]
+Hive #217: [197, 0] [449, 0] [362, 0] [83, 0] [953, 0] [460, 0] [75, 0] [297, 0] [927, 0] [461, 0] [977, 0] [456, 0] [97, 0] [840, 0]
+Hive #218: [465, 0] [593, 0] [650, 0] [488, 0] [749, 0] [847, 0]
+Hive #219: [937, 0] [561, 0] [438, 0] [623, 0] [513, 0] [717, 0] [928, 0] [208, 0] [468, 0] [73, 0] [129, 0] [991, 0]
+Hive #220: [94, 0] [615, 0] [411, 0] [401, 0] [215, 0] [212, 0] [372, 0]
+Hive #221: [991, 0] [136, 0] [112, 0] [392, 0] [547, 0] [654, 0] [521, 0] [644, 0] [64, 0] [99, 0]
+Hive #222: [219, 0] [207, 0] [154, 0]
+Hive #223: [563, 0] [372, 0] [66, 0] [105, 0] [285, 0] [521, 0] [441, 0] [979, 0]
+Hive #224: [916, 0] [358, 0] [211, 0] [114, 0] [472, 0] [906, 0]
+Hive #225: [125, 0] [470, 0] [358, 0] [382, 0] [131, 0] [920, 0] [282, 0] [736, 0] [57, 0] [546, 0]
+Hive #226: [717, 0] [239, 0] [820, 0] [332, 0] [435, 0] [836, 0] [222, 0] [315, 0]
+Hive #227: [373, 0] [706, 0] [807, 0] [782, 0] [733, 0] [242, 0] [397, 0] [916, 0] [998, 0] [100, 0] [19, 0] [499, 0] [261, 0] [750, 0]
+Hive #228: [68, 0] [151, 0]
+Hive #229: [220, 0] [631, 0] [584, 0] [509, 0] [40, 0] [827, 0] [149, 0]
+Hive #230: [391, 0] [676, 0] [93, 0] [286, 0] [603, 0] [789, 0] [372, 0] [360, 0] [431, 0]
+Hive #231: [684, 0]
+Hive #232: [477, 0] [623, 0] [475, 0] [853, 0]
+Hive #233: [233, 0]
+Hive #234: [808, 0] [862, 0] [161, 0] [391, 0]
+Hive #235: [160, 0] [726, 0] [862, 0] [289, 0] [371, 0] [730, 0] [75, 0] [509, 0] [419, 0] [216, 0] [603, 0]
+Hive #236: [673, 0] [338, 0] [290, 0] [278, 0] [13, 0] [974, 0] [113, 0] [247, 0] [732, 0] [71, 0] [328, 0]
+Hive #237: [645, 0] [919, 0] [63, 0] [780, 0] [875, 0] [977, 0]
+Hive #238: [939, 0] [75, 0] [319, 0]
+Hive #239: [664, 0] [220, 0] [405, 0] [854, 0] [871, 0]
+Hive #240: [103, 0] [815, 0] [955, 0] [756, 0] [964, 0] [517, 0] [346, 0] [221, 0] [150, 0] [399, 0] [27, 0] [238, 0]
+Hive #241: [849, 0] [893, 0] [107, 0] [386, 0] [552, 0] [240, 0] [401, 0] [37, 0] [286, 0] [631, 0] [216, 0] [553, 0]
+Hive #242: [994, 0] [763, 0] [559, 0] [710, 0]
+Hive #243: [857, 0] [301, 0] [996, 0] [896, 0] [962, 0] [2, 0] [565, 0] [890, 0] [747, 0] [645, 0] [477, 0] [667, 0] [12, 0] [424, 0] [438, 0] [300, 0] [453, 0] [927, 0]
+Hive #244: [594, 0] [81, 0] [375, 0] [870, 0]
+Hive #245: [104, 0] [651, 0] [286, 0] [392, 0] [643, 0] [746, 0] [613, 0] [97, 0] [772, 0]
+Hive #246: [119, 0] [184, 0] [19, 0] [279, 0] [362, 0] [392, 0] [915, 0] [546, 0] [97, 0] [62, 0] [277, 0] [396, 0] [81, 0] [856, 0]
+Hive #247: [298, 0] [965, 0] [577, 0] [476, 0] [749, 0] [950, 0] [348, 0] [594, 0]
+Hive #248: [260, 0] [162, 0] [184, 0] [751, 0] [78, 0] [160, 0] [200, 0] [889, 0] [45, 0] [193, 0] [970, 0]
+Hive #249: [326, 0] [552, 0] [793, 0] [819, 0] [87, 0]
+Hive #250: [883, 0] [365, 0] [965, 0] [22, 0] [796, 0] [305, 0] [332, 0] [927, 0] [814, 0]
+Hive #251: [966, 0] [289, 0] [782, 0]
+Hive #252: [388, 0] [96, 0] [655, 0] [465, 0] [49, 0] [57, 0] [610, 0] [680, 0] [501, 0] [491, 0] [890, 0]
+Hive #253: [871, 0] [461, 0] [889, 0] [182, 0] [359, 0]
+Hive #254: [637, 0] [139, 0] [492, 0] [172, 0] [278, 0] [852, 0] [51, 0] [28, 0] [606, 0]
+Hive #255: [2, 0] [182, 0] [215, 0]
+Hive #256: [307, 0] [623, 0] [410, 0] [896, 0] [841, 0] [374, 0] [31, 0]
+Hive #257: [475, 0] [914, 0] [338, 0] [822, 0] [219, 0] [607, 0] [790, 0] [360, 0] [70, 0] [610, 0] [214, 0] [600, 0] [347, 0] [422, 0] [270, 0] [513, 0] [688, 0] [958, 0] [905, 0]
+Hive #258: [790, 0] [407, 0] [67, 0] [534, 0] [961, 0]
+Hive #259: [168, 0] [360, 0] [382, 0]
+Hive #260: [18, 0] [733, 0] [783, 0] [365, 0] [802, 0] [703, 0] [59, 0] [325, 0] [907, 0] [944, 0]
+Hive #261: [32, 0] [673, 0] [632, 0] [463, 0]
+Hive #262: [751, 0] [456, 0]
+Hive #263: [967, 0] [870, 0] [193, 0] [654, 0] [435, 0]
+Hive #264: [161, 0] [104, 0] [315, 0]
+Hive #265: [704, 0] [808, 0] [437, 0] [441, 0]
+Hive #266: [543, 0] [123, 0] [574, 0]
+Hive #267: [355, 0] [863, 0] [744, 0] [1, 0] [534, 0] [349, 0] [707, 0] [260, 0] [657, 0]
+Hive #268: [270, 0] [862, 0]
+Hive #269: [803, 0] [904, 0] [290, 0] [17, 0] [257, 0] [300, 0] [647, 0] [660, 0] [350, 0] [513, 0]
+Hive #270: [41, 0] [747, 0] [10, 0] [375, 0] [168, 0] [767, 0] [999, 0] [7, 0]
+Hive #271: [230, 0] [801, 0] [283, 0] [219, 0] [26, 0]
+Hive #272: [35, 0] [598, 0] [758, 0] [882, 0] [547, 0] [520, 0] [856, 0] [795, 0] [290, 0] [988, 0] [49, 0] [302, 0] [467, 0] [953, 0] [344, 0] [299, 0] [159, 0]
+Hive #273: [434, 0] [227, 0]
+Hive #274: [80, 0] [865, 0] [7, 0] [467, 0] [564, 0]
+Hive #275: [854, 0] [760, 0] [486, 0] [702, 0] [171, 0] [133, 0] [116, 0] [785, 0] [806, 0] [781, 0] [757, 0] [127, 0]
+Hive #276: [773, 0] [616, 0]
+Hive #277: [939, 0] [259, 0] [736, 0] [52, 0] [601, 0] [267, 0] [853, 0] [375, 0] [869, 0] [58, 0] [288, 0] [719, 0] [658, 0] [200, 0] [16, 0] [896, 0] [972, 0] [215, 0] [4, 0]
+Hive #278: [349, 0] [219, 0] [518, 0] [184, 0] [881, 0] [670, 0] [737, 0] [573, 0] [398, 0]
+Hive #279: [125, 0] [772, 0] [17, 0] [186, 0]
+Hive #280: [553, 0] [642, 0] [456, 0] [489, 0] [57, 0] [679, 0] [130, 0] [970, 0] [218, 0]
+Hive #281: [835, 0] [30, 0] [173, 0] [241, 0] [937, 0] [375, 0]
+Hive #282: [621, 0] [654, 0] [364, 0] [934, 0] [840, 0] [458, 0]
+Hive #283: [297, 0] [753, 0] [601, 0] [594, 0] [32, 0] [733, 0] [646, 0] [335, 0] [67, 0] [703, 0]
+Hive #284: [114, 0] [346, 0] [161, 0] [538, 0] [684, 0] [896, 0] [142, 0] [884, 0] [861, 0] [219, 0] [707, 0]
+Hive #285: [709, 0] [444, 0] [97, 0] [854, 0] [273, 0] [660, 0]
+Hive #286: [160, 0] [261, 0] [471, 0] [483, 0] [218, 0] [589, 0] [426, 0] [414, 0] [223, 0] [446, 0] [552, 0] [578, 0] [734, 0] [636, 0] [420, 0]
+Hive #287: [834, 0] [855, 0] [372, 0] [890, 0] [676, 0] [442, 0] [241, 0] [111, 0] [797, 0] [643, 0] [461, 0] [159, 0] [49, 0] [780, 0]
+Hive #288: [463, 0] [427, 0] [452, 0] [116, 0]
+Hive #289: [525, 0] [307, 0]
+Hive #290: [484, 0] [457, 0] [401, 0] [749, 0] [265, 0] [750, 0] [521, 0] [385, 0] [185, 0] [461, 0]
+Hive #291: [809, 0] [429, 0] [589, 0] [10, 0] [129, 0] [966, 0] [274, 0] [362, 0] [555, 0]
+Hive #292: [795, 0] [960, 0] [66, 0] [719, 0] [249, 0]
+Hive #293: [964, 0] [130, 0] [312, 0] [690, 0] [427, 0] [216, 0] [788, 0] [110, 0] [43, 0] [57, 0] [302, 0] [241, 0] [443, 0] [167, 0] [2, 0] [794, 0] [896, 0] [785, 0] [100, 0]
+Hive #294: [601, 0] [288, 0] [208, 0] [552, 0] [270, 0] [534, 0]
+Hive #295: [438, 0] [259, 0] [64, 0] [149, 0] [107, 0] [26, 0] [151, 0] [589, 0] [114, 0] [886, 0] [55, 0] [875, 0] [552, 0] [71, 0] [435, 0]
+Hive #296: [310, 0] [316, 0] [381, 0] [958, 0] [764, 0] [623, 0] [212, 0] [29, 0] [463, 0] [28, 0] [961, 0]
+Hive #297: [338, 0]
+Hive #298: [983, 0] [931, 0] [142, 0]
+Hive #299: [109, 0] [435, 0] [478, 0] [970, 0] [188, 0]
+Hive #300: [781, 0] [428, 0] [395, 0] [747, 0] [488, 0] [777, 0] [7, 0] [764, 0] [870, 0]
+Hive #301: [952, 0] [145, 0] [745, 0] [401, 0] [602, 0] [832, 0] [816, 0]
+Hive #302: [911, 0] [905, 0] [10, 0] [866, 0] [890, 0] [451, 0] [353, 0] [412, 0]
+Hive #303: [968, 0] [272, 0] [259, 0] [594, 0] [646, 0] [18, 0] [819, 0] [267, 0] [626, 0] [726, 0] [455, 0] [247, 0] [262, 0] [994, 0] [95, 0]
+Hive #304: [299, 0] [253, 0] [549, 0] [824, 0] [512, 0]
+Hive #305: [862, 0] [150, 0]
+Hive #306: [277, 0] [806, 0] [476, 0] [642, 0]
+Hive #307: [375, 0] [370, 0] [104, 0] [382, 0] [579, 0] [793, 0] [365, 0] [469, 0] [145, 0] [815, 0]
+Hive #308: [989, 0] [455, 0] [563, 0] [290, 0] [41, 0] [53, 0] [258, 0]
+Hive #309: [87, 0] [360, 0] [659, 0] [1, 0] [897, 0]
+Hive #310: [685, 0] [428, 0] [23, 0] [12, 0] [419, 0] [323, 0]
+Hive #311: [949, 0] [526, 0] [28, 0] [757, 0] [499, 0]
+Hive #312: [916, 0] [431, 0] [590, 0] [162, 0] [773, 0] [263, 0] [915, 0] [398, 0] [926, 0]
+Hive #313: [531, 0] [427, 0] [686, 0] [170, 0] [664, 0] [336, 0]
+Hive #314: [296, 0] [275, 0] [902, 0] [809, 0]
+Hive #315: [327, 0] [172, 0] [769, 0] [972, 0] [163, 0] [809, 0] [183, 0] [747, 0] [326, 0] [557, 0] [647, 0] [17, 0]
+Hive #316: [500, 0] [276, 0] [952, 0] [70, 0] [35, 0] [441, 0]
+Hive #317: [750, 0] [371, 0] [882, 0] [334, 0] [35, 0] [840, 0] [698, 0] [43, 0] [33, 0] [937, 0] [651, 0] [114, 0] [963, 0] [746, 0] [772, 0] [760, 0] [862, 0]
+Hive #318: [575, 0] [299, 0] [697, 0] [593, 0] [722, 0]
+Hive #319: [154, 0] [971, 0] [353, 0] [479, 0] [70, 0]
+Hive #320: [481, 0] [113, 0]
+Hive #321: [86, 0] [406, 0] [641, 0] [795, 0] [216, 0] [89, 0] [31, 0] [196, 0]
+Hive #322: [833, 0] [688, 0] [807, 0] [286, 0]
+Hive #323: [295, 0] [882, 0]
+Hive #324: [275, 0] [239, 0] [221, 0] [628, 0] [281, 0] [934, 0] [660, 0] [871, 0] [802, 0]
+Hive #325: [487, 0] [911, 0] [724, 0] [896, 0] [38, 0] [921, 0] [456, 0] [41, 0] [893, 0] [626, 0]
+Hive #326: [683, 0]
+Hive #327: [673, 0] [216, 0] [110, 0] [194, 0] [35, 0] [281, 0] [167, 0] [553, 0]
+Hive #328: [372, 0] [401, 0]
+Hive #329: [135, 0] [31, 0] [301, 0] [107, 0] [765, 0] [283, 0] [231, 0] [939, 0] [104, 0] [293, 0] [50, 0] [841, 0] [276, 0] [937, 0] [96, 0]
+Hive #330: [637, 0] [296, 0] [898, 0]
+Hive #331: [350, 0] [289, 0] [541, 0] [937, 0]
+Hive #332: [301, 0] [627, 0] [743, 0]
+Hive #333: [29, 0] [935, 0] [775, 0] [861, 0] [849, 0] [719, 0] [831, 0] [790, 0] [312, 0] [419, 0] [632, 0] [296, 0]
+Hive #334: [693, 0] [904, 0] [635, 0] [417, 0] [794, 0] [158, 0] [769, 0] [880, 0]
+Hive #335: [499, 0] [722, 0] [917, 0] [668, 0] [458, 0] [102, 0] [322, 0] [517, 0] [531, 0] [649, 0] [164, 0] [955, 0] [496, 0] [756, 0] [285, 0] [427, 0]
+Hive #336: [409, 0] [927, 0] [936, 0] [746, 0] [809, 0] [372, 0] [123, 0] [801, 0] [66, 0]
+Hive #337: [610, 0] [428, 0] [706, 0] [505, 0] [987, 0] [278, 0] [372, 0]
+Hive #338: [548, 0]
+Hive #339: [303, 0] [904, 0] [645, 0] [76, 0] [992, 0] [755, 0] [550, 0] [415, 0] [8, 0] [614, 0] [435, 0]
+Hive #340: [851, 0] [12, 0] [494, 0] [57, 0] [816, 0] [371, 0] [719, 0] [235, 0] [720, 0] [748, 0] [697, 0] [26, 0] [478, 0] [88, 0]
+Hive #341: [182, 0] [607, 0] [560, 0] [977, 0]
+Hive #342: [51, 0] [286, 0] [730, 0] [276, 0] [395, 0]
+Hive #343: [710, 0] [971, 0] [611, 0] [798, 0] [370, 0] [856, 0] [164, 0] [338, 0] [726, 0] [129, 0] [722, 0] [415, 0] [941, 0]
+Hive #344: [301, 0] [282, 0] [948, 0] [558, 0] [50, 0] [802, 0] [227, 0] [597, 0] [490, 0]
+Hive #345: [169, 0] [577, 0] [113, 0] [678, 0] [756, 0] [257, 0] [129, 0] [715, 0]
+Hive #346: [517, 0] [979, 0] [583, 0] [397, 0]
+Hive #347: [967, 0] [308, 0] [715, 0] [431, 0] [736, 0] [547, 0] [557, 0] [849, 0] [660, 0] [403, 0] [193, 0] [47, 0] [843, 0] [986, 0] [430, 0] [361, 0] [801, 0]
+Hive #348: [522, 0] [649, 0]
+Hive #349: [103, 0] [7, 0] [66, 0] [935, 0] [906, 0] [303, 0] [768, 0] [440, 0] [297, 0] [632, 0] [899, 0] [63, 0] [420, 0] [189, 0] [613, 0] [227, 0] [660, 0] [164, 0] [988, 0]
+Hive #350: [623, 0] [158, 0] [268, 0] [509, 0] [287, 0] [741, 0] [829, 0]
+Hive #351: [348, 0] [154, 0] [911, 0]
+Hive #352: [419, 0] [384, 0]
+Hive #353: [961, 0] [644, 0] [142, 0] [454, 0] [241, 0] [438, 0] [157, 0] [783, 0] [41, 0] [40, 0] [194, 0] [191, 0] [197, 0] [461, 0]
+Hive #354: [862, 0] [915, 0] [926, 0] [816, 0] [626, 0] [424, 0] [616, 0] [185, 0] [571, 0] [782, 0] [100, 0] [140, 0] [668, 0] [150, 0]
+Hive #355: [935, 0] [613, 0] [217, 0] [697, 0] [409, 0]
+Hive #356: [953, 0] [672, 0]
+Hive #357: [972, 0] [171, 0] [366, 0] [454, 0] [384, 0]
+Hive #358: [105, 0] [111, 0] [832, 0] [211, 0] [494, 0] [467, 0] [17, 0] [286, 0] [396, 0] [694, 0] [461, 0] [726, 0] [238, 0] [610, 0]
+Hive #359: [233, 0] [900, 0] [222, 0] [685, 0]
+Hive #360: [354, 0] [756, 0] [272, 0] [484, 0] [163, 0]
+Hive #361: [382, 0] [346, 0] [723, 0] [727, 0] [398, 0] [822, 0] [563, 0] [286, 0] [425, 0] [877, 0] [400, 0] [45, 0] [834, 0] [186, 0] [893, 0] [107, 0] [302, 0] [500, 0] [41, 0]
+Hive #362: [883, 0] [256, 0] [335, 0] [739, 0]
+Hive #363: [771, 0] [661, 0] [403, 0] [431, 0] [871, 0] [877, 0]
+Hive #364: [616, 0] [280, 0] [122, 0] [764, 0] [373, 0] [386, 0] [733, 0] [82, 0] [534, 0] [186, 0] [369, 0] [857, 0] [703, 0] [120, 0] [239, 0]
+Hive #365: [270, 0] [37, 0]
+Hive #366: [682, 0] [326, 0] [278, 0]
+Hive #367: [81, 0] [210, 0]
+Hive #368: [124, 0] [239, 0] [920, 0] [875, 0] [614, 0] [600, 0] [208, 0] [161, 0] [198, 0] [16, 0] [463, 0] [537, 0] [313, 0] [377, 0]
+Hive #369: [160, 0] [883, 0] [302, 0] [107, 0] [661, 0] [394, 0] [711, 0] [992, 0] [321, 0]
+Hive #370: [843, 0] [820, 0] [139, 0] [198, 0] [730, 0]
+Hive #371: [759, 0]
+Hive #372: [836, 0] [921, 0] [673, 0] [54, 0] [252, 0] [815, 0] [679, 0] [930, 0] [427, 0] [877, 0] [517, 0] [790, 0] [485, 0] [907, 0]
+Hive #373: [431, 0] [632, 0] [145, 0] [531, 0] [896, 0] [212, 0] [223, 0] [468, 0] [332, 0] [159, 0] [51, 0] [887, 0] [829, 0]
+Hive #374: [593, 0] [489, 0] [372, 0] [431, 0]
+Hive #375: [104, 0] [97, 0] [758, 0] [620, 0] [270, 0] [261, 0] [355, 0]
+Hive #376: [697, 0] [855, 0] [480, 0] [447, 0] [964, 0] [588, 0]
+Hive #377: [959, 0] [196, 0] [638, 0] [499, 0] [966, 0] [268, 0]
+Hive #378: [808, 0] [105, 0] [770, 0] [927, 0] [142, 0] [992, 0] [261, 0] [75, 0] [118, 0] [730, 0] [512, 0] [839, 0] [338, 0] [268, 0]
+Hive #379: [750, 0] [680, 0] [796, 0]
+Hive #380: [35, 0] [991, 0] [305, 0] [68, 0] [419, 0] [376, 0] [551, 0] [616, 0] [163, 0]
+Hive #381: [104, 0] [272, 0] [323, 0] [590, 0] [575, 0] [598, 0] [481, 0] [92, 0] [161, 0] [701, 0] [809, 0] [356, 0] [90, 0] [99, 0] [288, 0]
+Hive #382: [854, 0] [132, 0] [81, 0] [296, 0] [549, 0] [859, 0] [555, 0] [857, 0] [396, 0] [882, 0] [382, 0]
+Hive #383: [764, 0] [560, 0] [700, 0] [607, 0]
+Hive #384: [127, 0] [821, 0] [765, 0] [553, 0] [962, 0] [560, 0] [433, 0] [898, 0] [284, 0] [64, 0]
+Hive #385: [905, 0] [180, 0] [96, 0] [988, 0] [622, 0] [162, 0] [284, 0] [820, 0] [454, 0] [805, 0] [265, 0] [931, 0] [297, 0]
+Hive #386: [751, 0] [889, 0] [96, 0] [678, 0] [322, 0] [80, 0] [896, 0] [157, 0] [958, 0] [99, 0]
+Hive #387: [887, 0] [772, 0]
+Hive #388: [808, 0] [741, 0] [197, 0] [484, 0] [593, 0] [624, 0]
+Hive #389: [215, 0] [999, 0] [627, 0] [816, 0] [686, 0] [157, 0] [974, 0]
+Hive #390: [475, 0] [267, 0] [153, 0] [431, 0] [498, 0] [13, 0] [50, 0]
+Hive #391: [450, 0] [658, 0] [401, 0] [652, 0] [901, 0] [463, 0] [153, 0] [403, 0] [739, 0]
+Hive #392: [795, 0] [950, 0] [845, 0] [513, 0]
+Hive #393: [514, 0] [50, 0] [991, 0] [99, 0] [213, 0] [0, 0] [745, 0]
+Hive #394: [659, 0] [639, 0] [214, 0] [614, 0] [335, 0] [967, 0] [219, 0] [676, 0] [5, 0] [267, 0] [406, 0] [299, 0]
+Hive #395: [745, 0] [879, 0] [337, 0] [787, 0] [241, 0] [346, 0] [634, 0]
+Hive #396: [229, 0] [175, 0] [235, 0] [478, 0] [904, 0] [97, 0]
+Hive #397: [770, 0] [795, 0] [193, 0] [68, 0] [297, 0] [189, 0] [133, 0] [55, 0]
+Hive #398: [998, 0] [51, 0] [660, 0] [941, 0] [750, 0] [758, 0] [525, 0] [912, 0] [39, 0] [556, 0] [712, 0] [735, 0]
+Hive #399: [136, 0] [314, 0] [17, 0] [974, 0] [926, 0] [184, 0]
+Hive #400: [242, 0] [681, 0] [277, 0] [604, 0] [586, 0] [688, 0] [535, 0] [904, 0] [658, 0]
+Hive #401: [65, 0] [124, 0] [760, 0] [841, 0] [632, 0] [531, 0] [552, 0] [588, 0] [126, 0] [184, 0] [887, 0]
+Hive #402: [530, 0] [375, 0] [80, 0] [464, 0] [111, 0] [332, 0] [184, 0] [946, 0] [852, 0]
+Hive #403: [392, 0] [200, 0] [243, 0] [908, 0] [43, 0] [127, 0]
+Hive #404: [526, 0] [87, 0] [41, 0] [892, 0] [376, 0] [427, 0] [978, 0] [362, 0] [518, 0] [441, 0] [146, 0] [783, 0] [632, 0] [571, 0]
+Hive #405: [502, 0] [75, 0] [338, 0] [121, 0] [405, 0] [412, 0] [895, 0] [870, 0] [21, 0] [921, 0] [920, 0] [88, 0] [140, 0] [717, 0] [210, 0]
+Hive #406: [602, 0] [787, 0] [158, 0] [242, 0] [616, 0] [253, 0] [759, 0] [648, 0]
+Hive #407: [283, 0] [16, 0] [861, 0] [310, 0]
+Hive #408: [53, 0] [936, 0] [201, 0] [560, 0] [122, 0] [161, 0] [624, 0]
+Hive #409: [83, 0] [717, 0] [21, 0] [434, 0] [872, 0] [362, 0] [779, 0] [448, 0] [644, 0] [501, 0] [661, 0] [811, 0] [698, 0]
+Hive #410: [762, 0] [974, 0] [841, 0] [375, 0] [972, 0] [205, 0]
+Hive #411: [739, 0] [859, 0] [239, 0]
+Hive #412: [876, 0] [668, 0] [351, 0] [959, 0] [499, 0] [17, 0] [875, 0] [547, 0] [15, 0] [715, 0] [854, 0]
+Hive #413: [815, 0] [761, 0] [463, 0] [862, 0] [15, 0] [401, 0] [988, 0] [434, 0] [218, 0] [918, 0] [151, 0] [41, 0] [647, 0] [945, 0]
+Hive #414: [467, 0] [807, 0] [553, 0] [916, 0] [384, 0]
+Hive #415: [414, 0] [160, 0]
+Hive #416: [778, 0] [964, 0] [66, 0] [631, 0] [168, 0] [439, 0]
+Hive #417: [508, 0] [157, 0] [608, 0] [330, 0] [833, 0] [481, 0]
+Hive #418: [780, 0] [832, 0] [741, 0] [100, 0] [346, 0] [779, 0] [442, 0] [66, 0] [388, 0]
+Hive #419: [789, 0] [303, 0] [355, 0]
+Hive #420: [659, 0] [64, 0] [396, 0] [552, 0] [81, 0] [151, 0]
+Hive #421: [235, 0] [257, 0] [833, 0] [492, 0] [437, 0] [525, 0]
+Hive #422: [401, 0] [751, 0] [444, 0] [917, 0]
+Hive #423: [896, 0] [292, 0] [252, 0] [575, 0] [96, 0] [719, 0] [427, 0] [108, 0] [814, 0] [970, 0]
+Hive #424: [230, 0] [205, 0] [955, 0] [862, 0] [674, 0] [794, 0] [122, 0] [235, 0] [845, 0]
+Hive #425: [498, 0] [112, 0] [796, 0] [432, 0] [625, 0] [624, 0] [789, 0] [765, 0] [992, 0] [905, 0] [723, 0] [604, 0] [344, 0] [481, 0] [322, 0] [184, 0] [698, 0] [226, 0]
+Hive #426: [124, 0] [422, 0] [597, 0] [96, 0] [235, 0]
+Hive #427: [308, 0] [358, 0] [62, 0]
+Hive #428: [940, 0] [736, 0] [724, 0]
+Hive #429: [626, 0] [649, 0] [396, 0]
+Hive #430: [628, 0] [390, 0] [290, 0] [901, 0] [922, 0]
+Hive #431: [891, 0] [417, 0] [17, 0] [451, 0] [795, 0] [233, 0] [713, 0] [758, 0] [332, 0] [637, 0] [211, 0]
+Hive #432: [620, 0] [429, 0] [551, 0] [947, 0]
+Hive #433: [691, 0] [99, 0] [317, 0] [104, 0] [852, 0] [121, 0] [974, 0] [859, 0] [369, 0] [876, 0] [899, 0]
+Hive #434: [28, 0] [862, 0] [225, 0] [481, 0] [729, 0] [388, 0]
+Hive #435: [85, 0] [186, 0] [126, 0] [985, 0] [498, 0] [742, 0] [795, 0] [892, 0] [282, 0] [137, 0] [822, 0]
+Hive #436: [162, 0] [268, 0] [508, 0] [427, 0] [230, 0] [452, 0]
+Hive #437: [462, 0] [459, 0] [872, 0] [887, 0] [972, 0] [722, 0] [282, 0] [358, 0] [672, 0] [342, 0] [581, 0] [659, 0] [856, 0] [256, 0] [727, 0] [737, 0] [650, 0]
+Hive #438: [836, 0] [365, 0] [276, 0] [699, 0] [590, 0] [396, 0] [119, 0] [794, 0] [346, 0]
+Hive #439: [419, 0] [376, 0] [268, 0]
+Hive #440: [242, 0] [435, 0] [221, 0] [669, 0] [946, 0] [338, 0]
+Hive #441: [5, 0] [467, 0]
+Hive #442: [933, 0] [809, 0] [490, 0] [657, 0] [437, 0] [398, 0] [620, 0] [835, 0] [660, 0]
+Hive #443: [193, 0] [323, 0] [28, 0] [555, 0] [366, 0] [88, 0] [424, 0] [475, 0] [872, 0] [447, 0] [187, 0] [136, 0] [659, 0] [905, 0]
+Hive #444: [210, 0] [133, 0] [553, 0] [359, 0]
+Hive #445: [745, 0] [879, 0] [199, 0] [983, 0] [22, 0] [973, 0] [475, 0] [517, 0] [786, 0] [117, 0] [397, 0] [362, 0] [157, 0] [481, 0] [466, 0] [870, 0] [242, 0]
+Hive #446: [341, 0] [58, 0] [256, 0] [1, 0]
+Hive #447: [504, 0] [710, 0] [690, 0] [593, 0] [308, 0] [534, 0] [829, 0] [656, 0]
+Hive #448: [350, 0] [590, 0] [504, 0] [726, 0]
+Hive #449: [730, 0] [720, 0]
+Hive #450: [753, 0] [935, 0] [350, 0] [424, 0] [914, 0] [722, 0] [717, 0] [115, 0] [286, 0] [910, 0]
+Hive #451: [975, 0] [370, 0] [918, 0] [372, 0] [855, 0]
+Hive #452: [685, 0] [727, 0] [936, 0] [765, 0] [755, 0] [2, 0] [801, 0]
+Hive #453: [470, 0] [908, 0] [27, 0] [468, 0] [129, 0] [770, 0] [476, 0] [353, 0] [919, 0] [659, 0] [906, 0] [753, 0] [210, 0] [910, 0] [474, 0] [664, 0] [216, 0]
+Hive #454: [615, 0] [781, 0] [465, 0] [948, 0] [711, 0] [588, 0]
+Hive #455: [967, 0] [512, 0]
+Hive #456: [237, 0] [157, 0] [921, 0] [803, 0]
+Hive #457: [626, 0] [678, 0] [168, 0] [964, 0] [489, 0] [939, 0] [100, 0] [597, 0] [465, 0] [283, 0] [643, 0] [823, 0]
+Hive #458: [738, 0] [591, 0] [571, 0] [467, 0] [978, 0]
+Hive #459: [701, 0] [119, 0] [534, 0] [61, 0] [208, 0] [716, 0]
+Hive #460: [43, 0] [424, 0] [427, 0] [50, 0] [845, 0] [861, 0] [592, 0] [467, 0] [872, 0] [216, 0]
+Hive #461: [296, 0] [476, 0] [355, 0] [790, 0] [590, 0] [26, 0]
+Hive #462: [820, 0] [837, 0]
+Hive #463: [377, 0] [551, 0] [452, 0] [417, 0] [201, 0] [629, 0] [614, 0] [929, 0] [927, 0] [779, 0] [49, 0]
+Hive #464: [312, 0] [887, 0] [455, 0] [44, 0] [515, 0] [925, 0] [994, 0] [558, 0] [145, 0]
+Hive #465: [889, 0]
+Hive #466: [76, 0] [370, 0]
+Hive #467: [874, 0] [720, 0] [180, 0] [859, 0] [123, 0] [788, 0] [866, 0] [872, 0] [862, 0] [572, 0] [370, 0]
+Hive #468: [160, 0] [813, 0] [401, 0] [333, 0] [204, 0] [639, 0] [163, 0] [235, 0] [578, 0] [735, 0]
+Hive #469: [879, 0] [220, 0] [86, 0] [430, 0] [323, 0] [484, 0]
+Hive #470: [404, 0] [616, 0]
+Hive #471: [406, 0] [301, 0] [793, 0] [195, 0] [874, 0] [994, 0] [184, 0] [845, 0]
+Hive #472: [45, 0] [370, 0] [66, 0] [96, 0] [774, 0]
+Hive #473: [104, 0] [384, 0] [133, 0] [81, 0] [835, 0] [496, 0] [534, 0] [811, 0]
+Hive #474: [940, 0] [293, 0] [110, 0] [610, 0]
+Hive #475: [186, 0] [961, 0] [197, 0] [616, 0] [937, 0] [931, 0] [54, 0] [782, 0] [145, 0] [311, 0]
+Hive #476: [625, 0] [113, 0] [514, 0] [380, 0] [913, 0] [202, 0]
+Hive #477: [444, 0] [896, 0] [600, 0] [554, 0] [440, 0]
+Hive #478: [912, 0] [643, 0] [976, 0] [676, 0] [973, 0] [887, 0] [379, 0] [80, 0] [395, 0] [406, 0] [839, 0] [459, 0] [435, 0] [855, 0] [25, 0]
+Hive #479: [49, 0] [437, 0]
+Hive #480: [954, 0] [561, 0] [69, 0] [189, 0] [381, 0]
+Hive #481: [810, 0] [581, 0] [587, 0] [51, 0] [723, 0] [859, 0] [747, 0] [145, 0] [421, 0] [788, 0] [277, 0] [344, 0] [17, 0] [765, 0] [652, 0]
+Hive #482: [302, 0] [168, 0] [879, 0] [713, 0] [558, 0] [693, 0]
+Hive #483: [602, 0] [656, 0] [904, 0] [671, 0] [133, 0] [252, 0] [537, 0] [164, 0]
+Hive #484: [149, 0] [191, 0] [890, 0] [470, 0] [678, 0] [762, 0] [942, 0] [344, 0] [713, 0] [500, 0] [426, 0] [26, 0] [261, 0] [513, 0]
+Hive #485: [354, 0] [552, 0] [773, 0] [349, 0] [971, 0] [591, 0] [410, 0] [593, 0] [736, 0] [513, 0]
+Hive #486: [809, 0] [493, 0] [905, 0] [716, 0] [605, 0] [967, 0] [353, 0] [282, 0] [288, 0] [499, 0] [347, 0]
+Hive #487: [914, 0] [262, 0]
+Hive #488: [876, 0] [136, 0] [474, 0] [997, 0] [887, 0]
+Hive #489: [953, 0] [532, 0] [34, 0] [931, 0] [381, 0]
+Hive #490: [964, 0] [824, 0] [675, 0]
+Hive #491: [525, 0] [616, 0] [856, 0]
+Hive #492: [493, 0] [133, 0] [708, 0] [806, 0] [843, 0] [75, 0] [338, 0] [97, 0] [967, 0]
+Hive #493: [195, 0] [179, 0] [767, 0] [252, 0]
+Hive #494: [28, 0] [26, 0] [974, 0] [27, 0] [916, 0] [426, 0] [892, 0] [622, 0] [836, 0] [384, 0] [261, 0] [806, 0] [844, 0] [440, 0]
+Hive #495: [284, 0] [193, 0] [521, 0]
+Hive #496: [55, 0] [765, 0] [764, 0] [772, 0]
+Hive #497: [446, 0] [715, 0] [883, 0] [898, 0] [221, 0] [772, 0] [273, 0]
+Hive #498: [750, 0] [985, 0] [175, 0] [938, 0] [667, 0] [300, 0] [228, 0] [959, 0] [861, 0] [772, 0] [272, 0] [722, 0] [104, 0] [911, 0]
+Hive #499: [455, 0] [10, 0]
+Hive #500: [653, 0] [104, 0] [335, 0] [955, 0] [362, 0] [431, 0] [786, 0]
+Hive #501: [841, 0] [62, 0] [276, 0] [703, 0] [726, 0] [339, 0] [843, 0] [132, 0] [130, 0] [229, 0] [167, 0] [499, 0] [722, 0]
+Hive #502: [687, 0] [279, 0] [108, 0] [836, 0] [911, 0] [453, 0] [384, 0] [637, 0] [414, 0] [607, 0] [391, 0] [349, 0] [962, 0] [299, 0]
+Hive #503: [277, 0]
+Hive #504: [992, 0]
+Hive #505: [348, 0] [642, 0] [247, 0] [689, 0] [622, 0] [391, 0] [936, 0]
+Hive #506: [92, 0] [500, 0] [411, 0] [858, 0] [376, 0] [605, 0] [123, 0] [297, 0] [777, 0] [290, 0] [929, 0] [242, 0] [372, 0] [367, 0]
+Hive #507: [164, 0] [879, 0] [863, 0] [67, 0] [168, 0] [533, 0] [659, 0] [121, 0] [453, 0] [726, 0]
+Hive #508: [750, 0] [80, 0] [151, 0] [775, 0] [716, 0]
+Hive #509: [112, 0] [621, 0] [523, 0] [537, 0] [642, 0]
+Hive #510: [955, 0] [375, 0] [18, 0] [489, 0] [641, 0] [936, 0] [519, 0] [740, 0] [767, 0]
+Hive #511: [346, 0] [2, 0] [536, 0] [364, 0] [177, 0]
+Hive #512: [931, 0] [186, 0] [237, 0] [500, 0] [396, 0] [497, 0] [823, 0]
+Hive #513: [431, 0] [18, 0] [465, 0] [595, 0] [257, 0] [157, 0] [522, 0] [779, 0] [278, 0] [738, 0] [883, 0] [112, 0] [114, 0] [517, 0]
+Hive #514: [862, 0] [970, 0]
+Hive #515: [816, 0] [946, 0] [822, 0] [349, 0]
+Hive #516: [904, 0] [382, 0] [553, 0] [521, 0] [583, 0] [96, 0] [884, 0] [448, 0] [728, 0]
+Hive #517: [388, 0] [563, 0] [861, 0] [345, 0] [289, 0] [155, 0] [185, 0] [705, 0] [552, 0] [404, 0] [919, 0] [757, 0]
+Hive #518: [767, 0] [270, 0] [54, 0] [242, 0] [974, 0] [218, 0] [72, 0] [238, 0] [807, 0]
+Hive #519: [644, 0] [47, 0] [823, 0] [615, 0]
+Hive #520: [785, 0] [964, 0] [680, 0] [591, 0] [11, 0] [787, 0] [554, 0] [338, 0] [935, 0] [804, 0] [777, 0] [164, 0] [956, 0]
+Hive #521: [842, 0] [254, 0] [2, 0] [306, 0] [268, 0] [275, 0] [214, 0] [733, 0] [906, 0] [623, 0] [988, 0] [987, 0] [27, 0] [913, 0] [397, 0]
+Hive #522: [26, 0] [338, 0] [607, 0] [759, 0] [475, 0] [736, 0] [960, 0] [255, 0] [861, 0] [935, 0] [605, 0]
+Hive #523: [976, 0] [452, 0] [395, 0] [538, 0] [70, 0] [530, 0] [908, 0]
+Hive #524: [147, 0] [783, 0] [136, 0] [46, 0] [981, 0]
+Hive #525: [499, 0] [332, 0]
+Hive #526: [747, 0] [563, 0] [785, 0] [699, 0] [646, 0] [35, 0] [127, 0] [911, 0]
+Hive #527: [557, 0] [845, 0] [434, 0] [540, 0] [241, 0] [487, 0] [790, 0] [671, 0] [255, 0] [703, 0] [743, 0] [105, 0] [197, 0]
+Hive #528: [473, 0] [306, 0] [991, 0]
+Hive #529: [492, 0] [49, 0] [735, 0] [862, 0] [808, 0] [907, 0] [572, 0] [438, 0] [612, 0] [125, 0] [810, 0] [488, 0]
+Hive #530: [312, 0] [384, 0] [882, 0] [157, 0]
+Hive #531: [653, 0]
+Hive #532: [810, 0] [622, 0] [27, 0] [374, 0] [680, 0] [664, 0] [145, 0] [451, 0]
+Hive #533: [514, 0] [648, 0] [900, 0] [763, 0] [10, 0] [140, 0]
+Hive #534: [518, 0] [636, 0] [772, 0] [149, 0] [673, 0] [710, 0] [872, 0] [217, 0] [370, 0] [241, 0]
+Hive #535: [861, 0] [548, 0] [553, 0] [302, 0] [800, 0] [727, 0] [810, 0] [616, 0] [129, 0] [262, 0] [721, 0] [346, 0] [43, 0] [187, 0] [543, 0]
+Hive #536: [63, 0] [809, 0] [579, 0] [167, 0] [741, 0]
+Hive #537: [5, 0] [770, 0] [593, 0]
+Hive #538: [224, 0] [743, 0] [935, 0] [364, 0] [194, 0] [604, 0] [105, 0] [512, 0] [24, 0] [52, 0] [563, 0] [865, 0] [525, 0] [426, 0] [422, 0] [899, 0] [125, 0] [557, 0] [421, 0]
+Hive #539: [664, 0] [447, 0] [142, 0] [225, 0] [552, 0] [380, 0] [679, 0] [61, 0] [612, 0]
+Hive #540: [257, 0] [516, 0] [18, 0] [382, 0]
+Hive #541: [877, 0] [852, 0] [946, 0] [780, 0] [406, 0] [282, 0] [919, 0] [243, 0]
+Hive #542: [688, 0] [904, 0] [916, 0] [920, 0] [12, 0] [543, 0]
+Hive #543: [508, 0] [606, 0] [133, 0] [706, 0] [801, 0] [50, 0] [597, 0] [582, 0] [535, 0]
+Hive #544: [449, 0] [388, 0] [872, 0]
+Hive #545: [375, 0] [999, 0]
+Hive #546: [113, 0] [588, 0] [721, 0] [558, 0] [301, 0] [637, 0] [971, 0] [722, 0] [502, 0] [283, 0] [299, 0] [749, 0] [248, 0] [661, 0] [885, 0] [787, 0]
+Hive #547: [962, 0] [727, 0] [875, 0] [852, 0]
+Hive #548: [67, 0] [63, 0] [590, 0] [127, 0] [306, 0] [170, 0] [121, 0] [972, 0] [159, 0] [261, 0] [449, 0] [417, 0] [249, 0] [408, 0] [468, 0] [133, 0]
+Hive #549: [407, 0] [785, 0] [832, 0]
+Hive #550: [817, 0] [490, 0]
+Hive #551: [858, 0] [377, 0] [80, 0] [191, 0] [130, 0] [789, 0] [369, 0] [862, 0] [168, 0] [885, 0] [621, 0] [125, 0] [826, 0]
+Hive #552: [8, 0] [691, 0]
+Hive #553: [629, 0] [306, 0] [465, 0] [886, 0] [907, 0] [71, 0] [338, 0]
+Hive #554: [548, 0] [11, 0] [384, 0] [189, 0] [615, 0] [113, 0] [446, 0] [168, 0] [125, 0] [256, 0] [730, 0]
+Hive #555: [133, 0] [691, 0] [332, 0] [843, 0] [985, 0] [410, 0] [334, 0] [222, 0] [699, 0]
+Hive #556: [427, 0] [83, 0] [964, 0] [304, 0] [364, 0] [163, 0] [575, 0]
+Hive #557: [298, 0] [96, 0] [184, 0] [186, 0] [371, 0]
+Hive #558: [385, 0] [152, 0] [649, 0] [567, 0] [85, 0] [68, 0] [432, 0] [225, 0] [97, 0] [967, 0] [877, 0] [384, 0] [54, 0]
+Hive #559: [382, 0]
+Hive #560: [622, 0] [673, 0] [941, 0] [31, 0] [788, 0] [168, 0] [789, 0] [614, 0]
+Hive #561: [690, 0] [90, 0] [647, 0] [348, 0] [382, 0] [89, 0]
+Hive #562: [808, 0] [541, 0] [177, 0]
+Hive #563: [967, 0] [333, 0] [911, 0] [775, 0] [149, 0] [660, 0]
+Hive #564: [104, 0] [905, 0] [587, 0] [769, 0] [619, 0] [743, 0]
+Hive #565: [79, 0] [251, 0] [95, 0] [268, 0] [711, 0] [337, 0] [360, 0] [253, 0] [232, 0] [563, 0] [245, 0] [590, 0] [765, 0]
+Hive #566: [71, 0] [68, 0] [461, 0] [978, 0] [278, 0] [954, 0] [364, 0] [681, 0] [471, 0] [414, 0] [790, 0] [347, 0] [10, 0] [643, 0] [337, 0] [141, 0]
+Hive #567: [615, 0] [820, 0] [788, 0] [707, 0] [732, 0] [118, 0] [613, 0] [963, 0] [392, 0] [31, 0] [964, 0] [768, 0] [171, 0] [411, 0]
+Hive #568: [228, 0]
+Hive #569: [22, 0] [181, 0] [330, 0] [488, 0] [701, 0] [960, 0] [346, 0] [643, 0] [788, 0] [641, 0]
+Hive #570: [854, 0] [217, 0] [768, 0] [907, 0] [508, 0] [486, 0] [259, 0] [160, 0] [618, 0] [635, 0] [504, 0] [477, 0] [783, 0] [967, 0] [853, 0] [358, 0] [388, 0]
+Hive #571: [534, 0] [500, 0] [967, 0]
+Hive #572: [878, 0] [717, 0] [334, 0] [396, 0] [846, 0] [8, 0] [941, 0] [795, 0] [194, 0] [737, 0] [463, 0] [416, 0] [135, 0] [851, 0] [120, 0] [642, 0] [409, 0] [449, 0]
+Hive #573: [186, 0] [772, 0] [754, 0] [872, 0] [81, 0] [216, 0] [212, 0] [306, 0] [66, 0] [238, 0]
+Hive #574: [835, 0] [459, 0] [386, 0] [312, 0] [850, 0] [635, 0] [670, 0] [344, 0] [656, 0] [530, 0]
+Hive #575: [170, 0] [816, 0] [236, 0] [111, 0] [168, 0] [490, 0] [447, 0] [162, 0]
+Hive #576: [398, 0] [461, 0] [460, 0] [836, 0] [642, 0] [381, 0] [802, 0] [255, 0]
+Hive #577: [637, 0] [741, 0] [388, 0] [618, 0] [691, 0] [422, 0] [628, 0] [844, 0] [73, 0]
+Hive #578: [622, 0] [713, 0] [675, 0] [777, 0] [801, 0] [922, 0]
+Hive #579: [474, 0] [328, 0] [261, 0]
+Hive #580: [125, 0] [920, 0] [54, 0] [153, 0] [664, 0] [399, 0] [293, 0]
+Hive #581: [50, 0] [473, 0] [467, 0]
+Hive #582: [898, 0] [631, 0] [243, 0] [940, 0] [794, 0] [31, 0] [4, 0]
+Hive #583: [393, 0] [282, 0] [75, 0] [589, 0] [956, 0] [674, 0] [107, 0] [438, 0] [394, 0] [880, 0]
+Hive #584: [358, 0] [560, 0] [587, 0] [440, 0] [495, 0] [679, 0] [481, 0] [739, 0] [136, 0] [396, 0] [827, 0] [445, 0] [121, 0]
+Hive #585: [128, 0] [420, 0] [424, 0] [504, 0] [642, 0] [220, 0] [753, 0] [806, 0] [155, 0] [739, 0] [114, 0] [698, 0]
+Hive #586: [900, 0] [500, 0] [307, 0] [301, 0] [521, 0] [32, 0] [661, 0]
+Hive #587: [777, 0] [643, 0]
+Hive #588: [444, 0] [468, 0] [210, 0] [947, 0] [375, 0] [595, 0] [605, 0] [803, 0] [967, 0]
+Hive #589: [971, 0] [783, 0]
+Hive #590: [304, 0] [819, 0] [301, 0] [502, 0] [930, 0] [971, 0] [93, 0]
+Hive #591: [209, 0] [593, 0] [200, 0] [275, 0] [315, 0] [488, 0] [344, 0] [5, 0] [562, 0] [348, 0]
+Hive #592: [823, 0] [96, 0] [803, 0] [780, 0] [278, 0] [987, 0] [401, 0] [89, 0] [586, 0] [748, 0] [231, 0] [617, 0]
+Hive #593: [923, 0] [616, 0] [612, 0] [236, 0] [283, 0] [652, 0] [802, 0]
+Hive #594: [20, 0] [62, 0] [420, 0] [643, 0] [922, 0] [107, 0]
+Hive #595: [452, 0] [289, 0] [865, 0] [922, 0] [191, 0] [255, 0] [802, 0] [935, 0] [572, 0] [914, 0] [729, 0] [87, 0] [952, 0] [433, 0]
+Hive #596: [526, 0] [119, 0] [635, 0] [289, 0]
+Hive #597: [16, 0] [614, 0] [654, 0]
+Hive #598: [923, 0] [454, 0] [427, 0] [98, 0] [890, 0] [289, 0] [441, 0] [451, 0] [918, 0] [573, 0] [312, 0] [467, 0] [998, 0] [512, 0] [785, 0]
+Hive #599: [832, 0] [813, 0] [99, 0] [967, 0] [59, 0] [914, 0]
+Hive #600: [862, 0] [832, 0]
+Hive #601: [973, 0] [388, 0] [501, 0] [261, 0] [186, 0]
+Hive #602: [71, 0] [885, 0] [768, 0] [431, 0] [384, 0] [914, 0] [427, 0] [597, 0]
+Hive #603: [787, 0] [793, 0] [764, 0] [257, 0]
+Hive #604: [572, 0] [459, 0] [495, 0] [795, 0] [370, 0] [762, 0] [916, 0] [871, 0] [889, 0] [650, 0] [826, 0] [673, 0] [911, 0] [518, 0] [914, 0]
+Hive #605: [576, 0] [672, 0] [451, 0] [911, 0] [616, 0] [645, 0] [660, 0] [237, 0] [834, 0] [945, 0] [801, 0] [658, 0] [27, 0]
+Hive #606: [885, 0] [99, 0] [259, 0] [705, 0] [7, 0] [70, 0] [517, 0] [813, 0]
+Hive #607: [314, 0] [477, 0] [259, 0] [591, 0] [377, 0]
+Hive #608: [367, 0] [723, 0] [73, 0] [219, 0] [481, 0] [317, 0] [227, 0] [591, 0] [463, 0] [221, 0]
+Hive #609: [941, 0] [914, 0] [756, 0] [130, 0] [818, 0] [166, 0] [138, 0]
+Hive #610: [996, 0] [426, 0] [673, 0] [370, 0] [372, 0] [862, 0] [289, 0] [445, 0]
+Hive #611: [203, 0] [517, 0] [168, 0] [316, 0] [364, 0] [392, 0] [763, 0] [840, 0] [303, 0] [996, 0] [10, 0] [476, 0] [399, 0] [721, 0] [950, 0] [920, 0] [290, 0] [286, 0]
+Hive #612: [534, 0] [35, 0] [540, 0] [205, 0] [464, 0] [587, 0] [846, 0] [509, 0]
+Hive #613: [380, 0] [809, 0] [277, 0] [543, 0] [698, 0] [866, 0]
+Hive #614: [153, 0] [475, 0] [841, 0] [130, 0] [68, 0] [754, 0] [778, 0] [287, 0] [257, 0] [613, 0] [33, 0] [901, 0] [966, 0] [651, 0]
+Hive #615: [609, 0] [588, 0] [958, 0] [565, 0] [770, 0] [826, 0] [425, 0] [172, 0] [355, 0] [789, 0] [280, 0] [904, 0] [30, 0] [185, 0] [690, 0] [855, 0] [585, 0] [168, 0]
+Hive #616: [60, 0] [129, 0] [127, 0] [135, 0] [919, 0] [772, 0] [552, 0] [713, 0] [577, 0] [161, 0] [283, 0] [409, 0] [749, 0] [218, 0] [764, 0]
+Hive #617: [95, 0] [950, 0] [130, 0] [557, 0] [45, 0] [739, 0] [477, 0] [560, 0] [300, 0] [834, 0] [850, 0] [639, 0] [314, 0]
+Hive #618: [289, 0] [916, 0] [756, 0] [388, 0] [593, 0] [899, 0] [807, 0] [179, 0]
+Hive #619: [293, 0] [104, 0] [442, 0] [587, 0] [797, 0]
+Hive #620: [500, 0] [360, 0] [612, 0] [553, 0] [809, 0]
+Hive #621: [261, 0] [453, 0]
+Hive #622: [827, 0] [594, 0] [239, 0] [512, 0] [703, 0] [819, 0] [399, 0] [673, 0]
+Hive #623: [739, 0] [417, 0] [531, 0] [219, 0] [706, 0] [548, 0] [794, 0] [719, 0] [392, 0] [105, 0] [126, 0]
+Hive #624: [188, 0] [388, 0] [772, 0] [739, 0]
+Hive #625: [680, 0] [533, 0] [531, 0] [913, 0] [57, 0] [936, 0] [622, 0]
+Hive #626: [685, 0] [297, 0] [60, 0] [358, 0] [372, 0] [832, 0] [125, 0] [967, 0] [684, 0] [548, 0] [112, 0] [362, 0] [150, 0] [656, 0] [1, 0] [896, 0] [481, 0] [411, 0]
+Hive #627: [924, 0] [513, 0] [443, 0] [666, 0] [753, 0] [543, 0] [622, 0] [470, 0]
+Hive #628: [343, 0] [787, 0] [432, 0] [643, 0] [453, 0] [259, 0] [106, 0] [300, 0] [15, 0]
+Hive #629: [157, 0] [553, 0] [814, 0] [916, 0] [94, 0] [984, 0] [945, 0] [991, 0] [942, 0] [598, 0]
+Hive #630: [919, 0] [417, 0] [557, 0] [286, 0] [848, 0] [749, 0] [136, 0] [244, 0] [622, 0] [757, 0] [589, 0] [37, 0]
+Hive #631: [870, 0] [372, 0]
+Hive #632: [89, 0] [199, 0] [166, 0] [491, 0] [613, 0] [773, 0] [490, 0] [753, 0] [934, 0] [546, 0] [794, 0] [320, 0]
+Hive #633: [16, 0] [185, 0] [926, 0] [825, 0]
+Hive #634: [623, 0] [918, 0] [109, 0]
+Hive #635: [392, 0] [933, 0] [499, 0] [208, 0] [982, 0] [401, 0] [806, 0] [185, 0]
+Hive #636: [918, 0] [974, 0] [168, 0]
+Hive #637: [726, 0] [10, 0] [392, 0] [855, 0] [561, 0] [442, 0] [344, 0] [713, 0]
+Hive #638: [73, 0] [845, 0] [688, 0]
+Hive #639: [488, 0] [123, 0] [940, 0]
+Hive #640: [178, 0] [775, 0] [803, 0] [799, 0] [87, 0]
+Hive #641: [443, 0] [618, 0] [121, 0] [283, 0] [295, 0]
+Hive #642: [825, 0] [701, 0] [78, 0] [86, 0] [48, 0] [201, 0]
+Hive #643: [477, 0] [189, 0] [108, 0] [488, 0] [233, 0] [15, 0]
+Hive #644: [397, 0] [598, 0] [922, 0]
+Hive #645: [863, 0] [664, 0] [553, 0] [103, 0] [736, 0] [556, 0] [611, 0] [300, 0] [782, 0] [211, 0] [347, 0] [850, 0]
+Hive #646: [950, 0] [168, 0]
+Hive #647: [127, 0] [107, 0] [289, 0] [314, 0]
+Hive #648: [597, 0] [71, 0] [835, 0] [265, 0] [303, 0] [727, 0] [346, 0] [131, 0] [757, 0] [887, 0] [493, 0] [54, 0]
+Hive #649: [991, 0] [122, 0] [773, 0] [167, 0] [132, 0] [732, 0] [539, 0] [785, 0] [179, 0]
+Hive #650: [142, 0] [505, 0] [888, 0] [995, 0] [272, 0] [639, 0] [916, 0] [904, 0] [926, 0] [841, 0]
+Hive #651: [659, 0] [896, 0] [643, 0] [290, 0] [39, 0] [982, 0] [441, 0] [493, 0] [471, 0] [453, 0] [638, 0] [810, 0] [567, 0] [300, 0] [360, 0]
+Hive #652: [759, 0] [937, 0] [149, 0] [874, 0] [560, 0] [74, 0]
+Hive #653: [628, 0] [385, 0]
+Hive #654: [623, 0] [58, 0] [621, 0] [119, 0] [461, 0] [710, 0] [795, 0]
+Hive #655: [379, 0] [444, 0] [113, 0] [34, 0] [486, 0]
+Hive #656: [356, 0] [730, 0]
+Hive #657: [680, 0] [490, 0] [48, 0] [158, 0] [591, 0] [940, 0] [787, 0] [841, 0] [66, 0] [360, 0] [537, 0] [819, 0] [465, 0]
+Hive #658: [151, 0] [491, 0] [320, 0] [591, 0] [790, 0] [71, 0] [78, 0] [12, 0] [142, 0] [652, 0] [348, 0] [396, 0]
+Hive #659: [293, 0] [614, 0] [594, 0]
+Hive #660: [159, 0] [314, 0] [879, 0] [776, 0] [587, 0] [420, 0] [785, 0] [102, 0] [322, 0] [962, 0] [906, 0] [787, 0] [14, 0] [483, 0] [398, 0]
+Hive #661: [215, 0] [416, 0] [278, 0] [988, 0] [802, 0] [41, 0] [481, 0] [678, 0] [904, 0] [434, 0] [420, 0] [268, 0]
+Hive #662: [379, 0] [659, 0] [819, 0] [405, 0] [185, 0] [211, 0] [597, 0] [306, 0]
+Hive #663: [113, 0] [673, 0] [53, 0] [122, 0] [571, 0] [61, 0] [560, 0] [153, 0] [390, 0] [756, 0] [286, 0] [287, 0] [376, 0] [815, 0] [550, 0] [185, 0]
+Hive #664: [673, 0] [875, 0]
+Hive #665: [230, 0] [611, 0] [671, 0] [389, 0] [70, 0]
+Hive #666: [409, 0] [999, 0] [905, 0] [755, 0] [126, 0] [372, 0] [927, 0]
+Hive #667: [620, 0] [783, 0] [107, 0] [650, 0] [265, 0] [78, 0] [53, 0] [205, 0]
+Hive #668: [671, 0] [835, 0] [255, 0] [781, 0] [981, 0]
+Hive #669: [855, 0] [437, 0] [743, 0] [673, 0] [727, 0] [427, 0] [636, 0] [825, 0] [926, 0] [858, 0] [5, 0] [802, 0] [574, 0]
+Hive #670: [372, 0] [846, 0] [965, 0] [414, 0] [690, 0] [970, 0] [105, 0] [66, 0] [688, 0] [976, 0] [30, 0] [977, 0]
+Hive #671: [730, 0] [370, 0] [672, 0]
+Hive #672: [16, 0] [338, 0] [664, 0] [81, 0] [859, 0] [198, 0] [627, 0] [261, 0] [806, 0] [24, 0]
+Hive #673: [655, 0] [5, 0] [229, 0] [302, 0] [219, 0] [757, 0] [670, 0] [774, 0] [587, 0] [975, 0] [185, 0] [322, 0]
+Hive #674: [189, 0] [761, 0] [416, 0] [576, 0] [707, 0]
+Hive #675: [541, 0] [444, 0] [841, 0] [380, 0] [426, 0] [716, 0] [45, 0] [789, 0] [563, 0] [350, 0] [545, 0] [153, 0]
+Hive #676: [218, 0] [423, 0] [794, 0] [871, 0] [402, 0] [131, 0] [762, 0] [753, 0] [278, 0]
+Hive #677: [954, 0] [741, 0]
+Hive #678: [713, 0] [814, 0] [741, 0] [937, 0] [775, 0] [733, 0] [722, 0] [133, 0] [660, 0] [805, 0] [846, 0] [443, 0] [851, 0] [768, 0] [747, 0] [323, 0] [299, 0]
+Hive #679: [920, 0] [223, 0] [796, 0] [144, 0] [182, 0] [105, 0] [449, 0] [905, 0] [836, 0] [49, 0] [56, 0] [360, 0] [803, 0] [214, 0] [474, 0] [841, 0] [382, 0] [195, 0] [534, 0]
+Hive #680: [384, 0] [735, 0]
+Hive #681: [789, 0] [384, 0]
+Hive #682: [424, 0] [560, 0] [320, 0] [423, 0] [479, 0] [338, 0]
+Hive #683: [421, 0] [893, 0] [164, 0] [60, 0] [86, 0]
+Hive #684: [383, 0] [821, 0] [266, 0] [208, 0] [132, 0] [71, 0] [680, 0] [748, 0] [647, 0] [845, 0] [780, 0] [720, 0]
+Hive #685: [154, 0] [587, 0] [420, 0] [794, 0] [850, 0] [177, 0] [63, 0] [71, 0] [688, 0] [877, 0] [755, 0] [741, 0] [641, 0] [520, 0]
+Hive #686: [391, 0] [454, 0] [290, 0] [513, 0] [26, 0] [443, 0] [547, 0] [210, 0] [133, 0] [455, 0] [877, 0] [376, 0] [706, 0]
+Hive #687: [299, 0] [160, 0] [759, 0] [954, 0] [758, 0]
+Hive #688: [806, 0] [719, 0] [469, 0] [390, 0] [914, 0] [840, 0] [283, 0] [265, 0] [920, 0] [453, 0]
+Hive #689: [631, 0] [622, 0] [777, 0] [415, 0] [147, 0] [160, 0] [690, 0] [455, 0] [477, 0] [874, 0] [547, 0] [402, 0] [401, 0] [565, 0] [717, 0]
+Hive #690: [468, 0] [392, 0] [914, 0] [750, 0] [120, 0] [465, 0] [948, 0] [970, 0] [49, 0] [896, 0]
+Hive #691: [237, 0] [622, 0] [966, 0] [181, 0]
+Hive #692: [594, 0] [951, 0] [268, 0] [318, 0] [183, 0] [297, 0] [260, 0]
+Hive #693: [773, 0] [116, 0] [891, 0] [64, 0]
+Hive #694: [814, 0] [850, 0] [984, 0] [598, 0] [604, 0]
+Hive #695: [110, 0] [481, 0] [41, 0] [851, 0] [726, 0] [244, 0] [164, 0] [413, 0]
+Hive #696: [905, 0] [380, 0] [730, 0] [819, 0] [765, 0] [817, 0]
+Hive #697: [534, 0] [420, 0] [907, 0] [477, 0] [970, 0] [579, 0] [278, 0] [846, 0]
+Hive #698: [731, 0] [888, 0] [283, 0] [452, 0] [727, 0] [108, 0] [794, 0] [721, 0] [446, 0] [834, 0] [158, 0] [547, 0]
+Hive #699: [237, 0] [628, 0] [486, 0] [87, 0]
+Hive #700: [649, 0] [460, 0] [867, 0] [252, 0] [601, 0] [719, 0] [75, 0]
+Hive #701: [811, 0] [756, 0] [872, 0] [737, 0] [308, 0] [916, 0] [971, 0] [404, 0] [108, 0]
+Hive #702: [101, 0] [370, 0] [394, 0] [463, 0] [435, 0] [283, 0] [941, 0] [236, 0] [326, 0] [896, 0] [338, 0] [242, 0]
+Hive #703: [389, 0] [411, 0]
+Hive #704: [167, 0] [631, 0] [132, 0] [738, 0] [261, 0]
+Hive #705: [538, 0] [189, 0] [786, 0] [285, 0] [432, 0] [301, 0] [116, 0] [64, 0] [373, 0]
+Hive #706: [615, 0]
+Hive #707: [742, 0] [979, 0] [919, 0] [64, 0] [456, 0] [334, 0] [183, 0] [649, 0] [694, 0]
+Hive #708: [996, 0] [70, 0] [614, 0] [62, 0] [798, 0] [262, 0]
+Hive #709: [907, 0] [917, 0] [900, 0] [280, 0] [262, 0] [983, 0] [639, 0] [396, 0] [899, 0] [474, 0] [67, 0] [745, 0]
+Hive #710: [704, 0] [289, 0] [338, 0] [78, 0] [749, 0] [873, 0] [549, 0]
+Hive #711: [549, 0] [26, 0] [110, 0] [463, 0] [411, 0] [231, 0] [847, 0] [242, 0]
+Hive #712: [601, 0] [149, 0] [459, 0]
+Hive #713: [963, 0] [399, 0] [805, 0] [776, 0] [63, 0] [748, 0]
+Hive #714: [136, 0] [453, 0] [782, 0] [7, 0] [157, 0] [253, 0] [312, 0] [861, 0] [225, 0] [794, 0] [467, 0] [819, 0] [787, 0] [179, 0] [833, 0] [375, 0] [639, 0] [788, 0] [757, 0]
+Hive #715: [379, 0] [802, 0] [264, 0] [116, 0] [720, 0] [670, 0] [759, 0] [66, 0] [399, 0] [789, 0] [326, 0]
+Hive #716: [478, 0] [78, 0] [71, 0] [239, 0]
+Hive #717: [28, 0] [220, 0] [857, 0] [933, 0] [296, 0] [310, 0] [419, 0] [375, 0]
+Hive #718: [710, 0] [917, 0] [861, 0] [278, 0] [994, 0] [850, 0]
+Hive #719: [743, 0] [561, 0] [32, 0] [974, 0] [707, 0] [687, 0] [135, 0] [896, 0] [229, 0] [764, 0] [435, 0]
+Hive #720: [883, 0] [777, 0] [861, 0] [398, 0] [252, 0] [904, 0]
+Hive #721: [399, 0] [223, 0] [73, 0] [926, 0]
+Hive #722: [61, 0] [974, 0] [565, 0] [684, 0] [774, 0]
+Hive #723: [290, 0] [242, 0] [349, 0] [296, 0] [440, 0] [350, 0] [384, 0] [438, 0] [453, 0] [985, 0]
+Hive #724: [83, 0] [177, 0] [563, 0] [551, 0] [961, 0] [603, 0] [863, 0]
+Hive #725: [911, 0] [625, 0] [399, 0] [635, 0] [167, 0] [560, 0] [462, 0] [758, 0] [401, 0] [973, 0] [723, 0] [808, 0]
+Hive #726: [711, 0] [88, 0] [517, 0] [338, 0] [454, 0] [426, 0] [722, 0] [621, 0] [100, 0] [994, 0] [427, 0]
+Hive #727: [81, 0] [154, 0] [924, 0] [84, 0] [107, 0] [254, 0] [303, 0] [357, 0] [139, 0] [296, 0] [502, 0] [385, 0] [429, 0] [755, 0] [411, 0]
+Hive #728: [719, 0] [920, 0] [296, 0] [111, 0] [460, 0] [133, 0] [823, 0] [7, 0] [908, 0] [216, 0] [814, 0]
+Hive #729: [366, 0] [303, 0] [345, 0] [320, 0] [121, 0] [332, 0] [69, 0]
+Hive #730: [600, 0] [100, 0] [931, 0] [435, 0] [961, 0] [727, 0]
+Hive #731: [388, 0]
+Hive #732: [591, 0] [409, 0] [783, 0] [871, 0] [673, 0] [513, 0]
+Hive #733: [474, 0] [39, 0] [451, 0] [833, 0] [505, 0] [219, 0] [270, 0] [16, 0] [7, 0]
+Hive #734: [287, 0] [309, 0] [81, 0] [883, 0] [944, 0] [919, 0] [388, 0] [525, 0] [749, 0] [283, 0] [794, 0] [823, 0] [295, 0] [688, 0]
+Hive #735: [100, 0]
+Hive #736: [78, 0] [427, 0] [383, 0] [489, 0] [160, 0] [808, 0] [483, 0]
+Hive #737: [361, 0] [616, 0] [790, 0] [857, 0] [779, 0] [128, 0]
+Hive #738: [76, 0] [605, 0] [257, 0] [564, 0] [52, 0] [160, 0] [317, 0] [785, 0] [73, 0] [475, 0]
+Hive #739: [142, 0] [981, 0] [907, 0] [935, 0] [710, 0] [438, 0]
+Hive #740: [214, 0] [486, 0] [890, 0] [404, 0] [615, 0] [501, 0] [488, 0]
+Hive #741: [86, 0] [994, 0] [911, 0] [851, 0] [381, 0]
+Hive #742: [512, 0] [790, 0]
+Hive #743: [16, 0] [106, 0] [183, 0] [834, 0] [623, 0] [86, 0]
+Hive #744: [214, 0] [544, 0] [43, 0] [946, 0] [928, 0] [737, 0] [573, 0] [183, 0] [176, 0] [870, 0] [517, 0] [253, 0]
+Hive #745: [880, 0] [288, 0] [772, 0] [673, 0] [949, 0] [299, 0] [891, 0] [104, 0] [126, 0] [832, 0] [887, 0] [71, 0] [81, 0] [214, 0]
+Hive #746: [827, 0] [400, 0] [448, 0]
+Hive #747: [380, 0] [896, 0]
+Hive #748: [598, 0] [746, 0] [204, 0] [51, 0] [363, 0] [58, 0] [417, 0] [151, 0] [211, 0] [687, 0] [284, 0] [337, 0] [317, 0]
+Hive #749: [107, 0] [239, 0] [231, 0] [922, 0] [835, 0] [946, 0]
+Hive #750: [159, 0] [626, 0] [892, 0] [153, 0] [850, 0] [446, 0] [41, 0] [883, 0] [297, 0] [230, 0]
+Hive #751: [806, 0] [879, 0]
+Hive #752: [339, 0] [988, 0] [604, 0] [341, 0] [974, 0] [688, 0] [520, 0]
+Hive #753: [211, 0] [422, 0] [666, 0] [690, 0] [848, 0] [905, 0] [135, 0] [552, 0] [451, 0] [257, 0] [967, 0] [597, 0] [808, 0]
+Hive #754: [809, 0] [424, 0] [192, 0] [992, 0] [225, 0] [31, 0] [233, 0] [277, 0] [165, 0] [94, 0] [241, 0] [982, 0] [614, 0] [649, 0] [615, 0] [287, 0]
+Hive #755: [879, 0] [922, 0] [760, 0] [637, 0] [896, 0] [431, 0]
+Hive #756: [978, 0] [560, 0] [825, 0] [517, 0] [199, 0] [261, 0]
+Hive #757: [951, 0] [787, 0] [189, 0] [164, 0] [521, 0] [34, 0] [265, 0] [18, 0] [488, 0] [727, 0] [862, 0] [739, 0]
+Hive #758: [129, 0] [225, 0]
+Hive #759: [919, 0] [900, 0] [631, 0] [427, 0] [139, 0] [728, 0]
+Hive #760: [34, 0] [296, 0] [199, 0] [706, 0] [694, 0] [392, 0] [793, 0] [492, 0] [96, 0] [656, 0] [916, 0] [840, 0] [218, 0] [438, 0]
+Hive #761: [500, 0] [739, 0] [477, 0] [438, 0] [567, 0] [121, 0] [195, 0] [950, 0] [745, 0] [743, 0] [377, 0]
+Hive #762: [783, 0] [153, 0] [484, 0] [779, 0] [992, 0] [490, 0] [737, 0] [899, 0] [386, 0] [116, 0]
+Hive #763: [649, 0] [483, 0] [911, 0] [201, 0] [384, 0] [361, 0] [669, 0] [398, 0] [678, 0] [476, 0] [474, 0] [397, 0]
+Hive #764: [541, 0] [837, 0] [878, 0] [89, 0]
+Hive #765: [121, 0] [684, 0] [908, 0] [910, 0] [608, 0] [879, 0] [401, 0] [475, 0]
+Hive #766: [673, 0] [129, 0] [185, 0] [794, 0] [600, 0] [480, 0] [691, 0]
+Hive #767: [557, 0] [334, 0] [214, 0] [80, 0] [809, 0] [732, 0] [622, 0]
+Hive #768: [384, 0] [898, 0] [432, 0] [891, 0]
+Hive #769: [691, 0] [477, 0] [270, 0] [649, 0] [47, 0] [78, 0] [388, 0] [59, 0] [441, 0] [816, 0] [308, 0] [737, 0] [367, 0] [284, 0]
+Hive #770: [500, 0] [439, 0] [300, 0] [809, 0] [687, 0] [684, 0] [287, 0] [145, 0] [377, 0] [887, 0] [796, 0] [126, 0] [205, 0] [481, 0]
+Hive #771: [306, 0] [76, 0] [327, 0] [129, 0] [685, 0] [921, 0] [160, 0] [954, 0] [616, 0] [10, 0] [910, 0] [242, 0] [41, 0] [819, 0] [355, 0] [698, 0]
+Hive #772: [370, 0] [607, 0] [475, 0] [121, 0]
+Hive #773: [157, 0] [216, 0] [190, 0] [64, 0] [754, 0] [127, 0] [911, 0] [649, 0]
+Hive #774: [517, 0] [420, 0] [559, 0] [305, 0] [858, 0] [894, 0] [2, 0]
+Hive #775: [70, 0] [935, 0] [659, 0]
+Hive #776: [432, 0] [122, 0] [879, 0] [336, 0] [736, 0] [640, 0] [567, 0] [484, 0] [132, 0] [90, 0] [929, 0] [238, 0] [80, 0] [114, 0]
+Hive #777: [247, 0] [501, 0] [261, 0] [717, 0] [475, 0] [640, 0] [703, 0] [150, 0]
+Hive #778: [365, 0] [163, 0] [604, 0] [219, 0] [581, 0] [580, 0] [136, 0] [927, 0] [386, 0] [391, 0] [720, 0] [224, 0] [533, 0]
+Hive #779: [224, 0] [566, 0] [591, 0] [774, 0] [769, 0] [199, 0] [238, 0]
+Hive #780: [560, 0] [397, 0] [904, 0] [595, 0] [658, 0] [540, 0] [781, 0]
+Hive #781: [172, 0] [261, 0] [375, 0] [450, 0] [456, 0] [116, 0] [965, 0] [552, 0] [114, 0] [292, 0] [372, 0] [872, 0] [673, 0] [17, 0] [251, 0]
+Hive #782: [41, 0] [906, 0] [301, 0] [543, 0]
+Hive #783: [906, 0] [28, 0] [459, 0]
+Hive #784: [836, 0] [164, 0] [346, 0] [660, 0] [173, 0] [688, 0] [676, 0] [819, 0] [345, 0] [764, 0] [741, 0] [935, 0] [92, 0] [26, 0]
+Hive #785: [727, 0] [791, 0] [486, 0]
+Hive #786: [541, 0] [212, 0] [456, 0] [108, 0] [99, 0] [885, 0] [407, 0] [500, 0] [449, 0] [323, 0] [306, 0] [238, 0]
+Hive #787: [588, 0] [203, 0] [175, 0] [323, 0] [168, 0] [376, 0] [679, 0] [181, 0]
+Hive #788: [316, 0] [709, 0] [451, 0] [702, 0]
+Hive #789: [150, 0] [773, 0] [679, 0] [782, 0] [414, 0] [450, 0] [473, 0] [997, 0] [537, 0]
+Hive #790: [508, 0] [450, 0] [52, 0] [662, 0] [780, 0] [275, 0] [730, 0] [861, 0] [484, 0] [199, 0]
+Hive #791: [235, 0] [780, 0] [218, 0]
+Hive #792: [841, 0] [384, 0] [593, 0] [687, 0] [974, 0] [601, 0] [615, 0] [501, 0] [474, 0] [419, 0] [623, 0]
+Hive #793: [690, 0] [897, 0] [828, 0] [651, 0] [531, 0] [418, 0] [491, 0] [829, 0]
+Hive #794: [159, 0] [538, 0] [832, 0] [238, 0] [727, 0]
+Hive #795: [492, 0] [121, 0] [598, 0] [691, 0]
+Hive #796: [223, 0] [801, 0] [210, 0] [477, 0]
+Hive #797: [779, 0] [173, 0] [829, 0] [433, 0] [690, 0]
+Hive #798: [593, 0] [282, 0] [691, 0] [749, 0] [946, 0] [588, 0] [380, 0] [117, 0] [654, 0] [862, 0] [813, 0] [800, 0] [920, 0] [66, 0]
+Hive #799: [910, 0]
