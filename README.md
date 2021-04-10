@@ -3,6 +3,10 @@ Coding challenge based on Google HashCode 2016 (originally scripted for package 
 The code presented here is a work produced by a group of 4 students, me included.
 
 We were the team #2:
+- Problem 1: 101421
+- Problem 2: 74325
+- Problem 3: 95721
+- Final Score: 271536
 <p align="center">
     <img src="Images/Extended period Scoreboard - Robees Challenge.jpg" alt="Scoreboard" height=600 >
 </p>
